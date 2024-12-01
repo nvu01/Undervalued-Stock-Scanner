@@ -26,9 +26,10 @@ The evaluation is based on a series of criteria and statistical methods outlined
 The data is processed and analyzed using a combination of Excel features:
 1. Power Query: Used to import, clean, and transform the raw CSV data. It is also used to automate the creation of Excel formulas for certain calculations. 
 2. Excel Formulas: Used to compute fundamental metrics, identify outliers, identify underavalued stocks and assign scores to these stocks based on their fundamental metrics.
-3. Pivot Tables: Summarizes and calculates the mean values of each fundamental metric by industry and market cap (Large Cap, Mid Cap, Small Cap), excluding outliers. 
-4. Outlier Filtering: Filters outliers from pivot tables to ensure accurate mean calculations.
-5. Conditional Formatting: Highlights the best stocks based on their scores and key metrics, making it easier to identify potential undervalued stocks.
+3. RTD Function for Real-Time Stock Prices: the RTD (Real-Time Data) function is used to retrieve real-time stock prices directly into the workbook. This feature integrates with the Thinkorswim platform to pull the latest stock prices based on the ticker symbols.
+4. Pivot Tables: Summarizes and calculates the mean values of each fundamental metric by industry and market cap (Large Cap, Mid Cap, Small Cap), excluding outliers. 
+5. Outlier Filtering: Filters outliers from pivot tables to ensure accurate mean calculations.
+6. Conditional Formatting: Highlights the best stocks based on their scores and key metrics, making it easier to identify potential undervalued stocks.
 
 The outcome of the analysis is a set of 11 Excel workbooks. Each workbook is named according to the sector (e.g., Technology.xlsx, Healthcare.xlsx), and the data is analyzed for each industry within the sector. The following sheets are included within each workbook:
 - Main_L: Includes stocks and fundamental metrics in the large-cap market category for each industry within the sector.
@@ -79,6 +80,9 @@ Undervalued_Stock_Scanner/
 │
 └── (Other project files)
 ```
+## Prerequisites
+- Microsoft Excel
+- Thinkorswim app with active Charles Schwab account
 
 ## Usage
 **The project folder uses dynamic file paths in Power Query queries, which means the project can be used across different computers as long as the folder structure remains unchanged.**  
