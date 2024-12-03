@@ -29,4 +29,4 @@ The Power BI folder contains the following key files:
 ## Requirements
 
 - Microsoft Power BI Desktop installed on your computer.
-- Access to the provided Excel workbooks that contain the raw data used for modeling and visualization.
+- Project folder "Undervalued Stock Scanner" containing Excel workbooks used for modeling and visualization.
