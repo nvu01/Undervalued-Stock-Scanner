@@ -73,10 +73,10 @@ Undervalued_Stock_Scanner/
 │   ├── Results/                      # Folder containing result workbooks for Version 3
 │   └── Power Query Codes/            # Folder containing .md files with Power Query codes for V3
 │
-├── Conceptual Framework.pdf         # Detailed explanation of the project's logic and methodology
-├── Instructions.pdf                 # Instructions for using the result workbooks
-├── Table Design.pdf                 # Outlines the structure of tables in CSV files and other workbooks
-├── Excel Formulas/                  # Folder containing all Excel formulas used in this project
+├── Conceptual Framework.pdf          # Detailed explanation of the project's logic and methodology
+├── Instructions.pdf                  # Instructions for using the result workbooks
+├── Table Design.pdf                  # Outlines the structure of tables in CSV files and other workbooks
+├── Excel Formulas/                   # Folder containing all Excel formulas used in this project
 │
 └── (Other project files)
 ```
