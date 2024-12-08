@@ -59,7 +59,7 @@ Undervalued_Stock_Scanner/
 │
 ├── V1/                               # Version 1 - Testing and exploration
 │   ├── Builder V1.xlsx               # Workbook to build the sample results for Version 1
-│   └──  Power Query Codes/            # Folder containing .md files with Power Query codes for V1
+│   └──  Power Query Codes/           # Folder containing .md files with Power Query codes for V1
 │   
 ├── V2/                               # Version 2 - Completed and recommended
 │   ├── Builder V2.xlsx               # Workbook to build the sample results for Version 2
@@ -76,7 +76,7 @@ Undervalued_Stock_Scanner/
 ├── Conceptual Framework.pdf         # Detailed explanation of the project's logic and methodology
 ├── Instructions.pdf                 # Instructions for using the result workbooks
 ├── Table Design.pdf                 # Outlines the structure of tables in CSV files and other workbooks
-├── Excel Formulas/                   # Folder containing all Excel formulas used in this project
+├── Excel Formulas/                  # Folder containing all Excel formulas used in this project
 │
 └── (Other project files)
 ```
