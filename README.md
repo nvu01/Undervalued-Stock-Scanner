@@ -43,58 +43,39 @@ The outcome of the analysis is a set of 11 Excel workbooks. Each workbook is nam
 - Result_M: Evaluation results for mid-cap stocks based on the calculated metrics for each industry.
 - Result_S: Evaluation results for small-cap stocks based on the calculated metrics for each industry.  
 
-## Project Versions, Folders and Files
-### Project Versions
-There are 3 versions of this project: Version 1 (V1), Version 2 (V2), and Version 3 (V3).
-- Version 1 (V1): Available for testing and exploration purposes.
-- Version 2 (V2): Completed and recommended for users.
-- Version 3 (V3): Completed and recommended for users.
-
-### Folders and Files
-
+## Project Folders and Files
+``Undervalued Stock Scanner.zip`` contains the following folders and files:
 ```bash
-Undervalued_Stock_Scanner/
+Undervalued Stock Scanner/
 │              
-├── Downloaded CSV Files/             # Folder containing raw CSV data files (11 CSV files)
-│
-├── V1/                               # Version 1 - Testing and exploration
-│   ├── Builder V1.xlsx               # Workbook to build the sample results for Version 1
-│   └──  Power Query Codes/           # Folder containing .md files with Power Query codes for V1
+├── Downloaded CSV Files/             # Folder containing 11 raw CSV files and 1 sample CSV file
 │   
-├── V2/                               # Version 2 - Completed and recommended
-│   ├── Builder V2.xlsx               # Workbook to build the sample results for Version 2
-│   ├── Watch List.xlsx               # User watch list to track preferred stocks
+├── V_._._/                           # Folder containing workbooks, instructions and code documentation
 │   ├── Results/                      # Folder containing result workbooks for Version 2
+│   ├── Builder.xlsx                  # Workbook to build the sample results for Version 2
+│   ├── Watch List.xlsx               # User watch list to track preferred stocks
+│   ├── Excel Formulas/               # Folder containing all Excel formulas used in this project
+│   ├── Instructions.pdf              # Instructions for using the result workbooks
 │   └── Power Query Codes/            # Folder containing .md files with Power Query codes for V2
 │
-├── V3/                               # Version 3 - Completed and recommended
-│   ├── Builder V3.xlsx               # Workbook to build the sample results for Version 3
-│   ├── Watch List.xlsx               # User watch list to track preferred stocks
-│   ├── Results/                      # Folder containing result workbooks for Version 3
-│   └── Power Query Codes/            # Folder containing .md files with Power Query codes for V3
-│
 ├── Conceptual Framework.pdf          # Detailed explanation of the project's logic and methodology
-├── Instructions.pdf                  # Instructions for using the result workbooks
-├── Table Design.pdf                  # Outlines the structure of tables in CSV files and other workbooks
-├── Excel Formulas/                   # Folder containing all Excel formulas used in this project
-│
-└── (Other project files)
+└── Table Design.pdf                  # Outlines the structure of tables in CSV files and other workbooks
 ```
 ## Prerequisites
 - Microsoft Excel
-- Thinkorswim app with active Charles Schwab account
+- Thinkorswim app with active Charles Schwab account (Optional: this is for updating the raw data)
 
 ## Usage
 **The project folder uses dynamic file paths in Power Query queries, which means the project can be used across different computers as long as the folder structure remains unchanged.**  
 
 ### General guide:
 1. Download the Project Folder:
-   - Download the project zip file "Undervalued Stock Scanner.zip" to your local machine and extract it to a desired location. This will create the "Undervalued Stock Scanner" folder.
+   - Download the project zip file ``Undervalued Stock Scanner.zip`` to your local machine and extract it to a desired location. This will create the ``Undervalued Stock Scanner`` folder.
 2. Ensure Up-to-Date Data:  
    - Log in to Thinkorswim and download the latest data. Replace the 11 CSV files in the **"Downloaded CSV Files"** folder with the updated files.
    - Ensure that the folder structure remains the same to avoid breaking dynamic file paths in Power Query.
 3. Refresh Data and Interact with Workbooks:  
-   - Open any workbook from the **"Results"** folder (located in either the **V2** or **V3** folder). These workbooks contain the processed data for each sector and will be pre-populated with fundamental stock analysis results.
-   - To update the data in your workbook, you may need to refresh the queries or follow additional steps detailed in the "Instructions" document.
+   - Open any workbook from the ``Results`` folder. These workbooks contain the processed data for each sector and will be pre-populated with fundamental stock analysis results.
+   - To update the data in your workbook, you may need to refresh the queries. Follow additional steps detailed in ``Instructions.pdf``.
 
 **For more detailed guidance on how to use the workbooks, refer to the "Instructions.pdf" in the project folder.**
