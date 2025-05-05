@@ -50,13 +50,13 @@ Undervalued Stock Scanner/
 │              
 ├── Downloaded CSV Files/             # Folder containing 11 raw CSV files and 1 sample CSV file
 │   
-├── V_._._/                           # Folder containing workbooks, instructions and code documentation
-│   ├── Results/                      # Folder containing result workbooks for Version 2
-│   ├── Builder.xlsx                  # Workbook to build the sample results for Version 2
-│   ├── Watch List.xlsx               # User watch list to track preferred stocks
-│   ├── Excel Formulas/               # Folder containing all Excel formulas used in this project
+├── Main/                             # Folder containing workbooks, instructions and code documentation
 │   ├── Instructions.pdf              # Instructions for using the result workbooks
-│   └── Power Query Codes/            # Folder containing .md files with Power Query codes for V2
+│   ├── Results/                      # Folder containing all result workbooks
+│   ├── Builder.xlsx                  # Workbook to build the sample results
+│   ├── Watch List.xlsx               # User's watch list template to track preferred stocks
+│   ├── Excel Formulas/               # Folder containing .md files that store all Excel formulas
+│   └── Power Query Codes/            # Folder containing .md files that store Power Query M codes
 │
 ├── Conceptual Framework.pdf          # Detailed explanation of the project's logic and methodology
 └── Table Design.pdf                  # Outlines the structure of tables in CSV files and other workbooks
