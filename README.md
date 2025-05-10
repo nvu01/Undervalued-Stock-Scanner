@@ -28,7 +28,7 @@ The data is processed and analyzed using a combination of Excel features:
 1. Power Query: Used to import, clean, and transform the raw CSV data. It is also used to automate the creation of Excel formulas for certain calculations.
 2. Excel Formulas: Used to compute fundamental metrics, identify outliers, identify underavalued stocks and assign scores to these stocks based on their fundamental metrics.
 3. RTD Function for real-time stock prices: the RTD (Real-Time Data) function is used to retrieve real-time stock prices directly into the workbook. This feature integrates with the Thinkorswim platform to pull the latest stock prices based on the ticker symbols.  
-**Note:** In order to allow for the use of RTD function for real time stock price, instead of using Power Query functions to add calculated columns that directly generate numeric values, I had to use Power Query custom functions to create custom columns containing Excel formulas. This creates a few extra steps in refreshing data in workbooks.
+**Note:** To allow for the use of RTD function for real-time stock price, instead of using Power Query functions to add calculated columns that directly generate numeric values, I had to use Power Query custom functions to create custom columns containing Excel formulas. This creates a few extra steps in refreshing data in workbooks.
 4. Pivot Tables: Summarizes and calculates the mean values of each fundamental metric by industry and market cap (Large Cap, Mid Cap, Small Cap), excluding outliers. 
 5. Outlier Filtering: Filters outliers from pivot tables to ensure accurate mean calculations.
 6. Conditional Formatting: Highlights the best stocks based on their scores and key metrics, making it easier to identify potential undervalued stocks.
@@ -82,4 +82,4 @@ Undervalued Stock Scanner/
    - Open any workbook from the ``Results`` folder. These workbooks contain the processed data for each sector and will be pre-populated with fundamental stock analysis results.
    - To update the data in your workbook, you may need to refresh the queries. Follow additional steps detailed in ``Instructions.pdf``.
 
-**For more detailed guidance on how to use the workbooks, refer to the "Instructions.pdf" in the project folder.**
+**For more detailed guidance on how to use the workbooks, refer to the "Instructions.pdf" in `Undervalued Stock Scanner/Main` folder.**
