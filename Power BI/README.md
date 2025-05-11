@@ -11,8 +11,8 @@ This part of Undervalued Stock Scanner project uses Microsoft Power BI to create
 
 The Power BI folder contains the following key files:
 
-- `Undervalued Stocks Dashboard.pbix`: Power BI file including data visualizations for undervalued stock evaluation.
-- `Industry Averages Dashboard.pbix`: Power BI file that includes data visualizations based on industry averages, using the data models created from the Excel workbooks.
+- `Undervalued Stocks Dashboard.pbix`: Power BI file with data visualizations for undervalued stock evaluation.
+- `Industry Averages Dashboard.pbix`: Power BI file with data visualizations about industry-level metrics.
 - `Using Dashboards.pdf`: A PDF guide that provides step-by-step instructions on how to use the dashboards and explains how to interpret and analyze the visualizations.
 - `Data Model View_Result Workbooks.pbix`: Power BI file containing a data model view for the Excel workbooks in `Undervalued Stock Scanner\Main\Results` folder. This model organizes the tables and establishes relationships for better analysis.
 
