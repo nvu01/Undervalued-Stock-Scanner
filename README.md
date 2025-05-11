@@ -24,11 +24,11 @@ The evaluation is based on a series of criteria and statistical methods outlined
 **For a detailed explanation of the logic behind the project, please refer to the "Conceptual Framework" document.**
 
 ## Summary of Data Preparation Workflow
-The data is processed and analyzed using a combination of Excel features:
-1. Power Query: Used to import, clean, and transform the raw CSV data. It is also used to automate the creation of Excel formulas for certain calculations.
+The data processing steps were done in a sample workbook called `Builder.xlsm`. This workbook was then used to automatically apply the processing steps to the raw data and generate result workbooks.
+1. Power Query: Used to import, clean, and transform the raw CSV data. It is also used to automate the creation of Excel formulas for certain calculations. 
 2. Excel Formulas: Used to compute fundamental metrics, identify outliers, identify underavalued stocks and assign scores to these stocks based on their fundamental metrics.
 3. RTD Function for real-time stock prices: the RTD (Real-Time Data) function is used to retrieve real-time stock prices directly into the workbook. This feature integrates with the Thinkorswim platform to pull the latest stock prices based on the ticker symbols.  
-**Note:** To allow for the use of RTD function for real-time stock price, instead of using Power Query functions to add calculated columns that directly generate numeric values, I had to use Power Query custom functions to create custom columns containing Excel formulas. This creates a few extra steps in refreshing data in workbooks.
+**Note:** To allow for the use of RTD function for real-time stock price, instead of using Power Query functions to add calculated columns that directly generate numeric values, I had to use Power Query custom functions to create columns containing Excel formulas. This creates a few extra steps in refreshing data in workbooks.
 4. Pivot Tables: Summarizes and calculates the mean values of each fundamental metric by industry and market cap (Large Cap, Mid Cap, Small Cap), excluding outliers. 
 5. Outlier Filtering: Filters outliers from pivot tables to ensure accurate mean calculations.
 6. Conditional Formatting: Highlights the best stocks based on their scores and key metrics, making it easier to identify potential undervalued stocks.
@@ -43,7 +43,8 @@ The outcome of the analysis is a set of 11 Excel workbooks (.xlsm). Each workboo
 - Mean_S: Includes multiple pivot tables with the mean values of each fundamental metric for small-cap stocks, excluding outliers, calculated by industry.
 - Result_L: Evaluation results for large-cap stocks based on the calculated metrics for each industry.
 - Result_M: Evaluation results for mid-cap stocks based on the calculated metrics for each industry.
-- Result_S: Evaluation results for small-cap stocks based on the calculated metrics for each industry.  
+- Result_S: Evaluation results for small-cap stocks based on the calculated metrics for each industry.
+- Dynamic Path: Includes the project folder path.
 
 ## Project Folders and Files
 ``Undervalued Stock Scanner.zip`` contains the following folders and files:
@@ -65,6 +66,7 @@ Undervalued Stock Scanner/
 ```
 ## Prerequisites
 - Microsoft Excel
+- Microsoft Power BI Desktop
 - Optional: Thinkorswim app with active Charles Schwab account for data update/refresh.
 
 ## Usage
@@ -82,4 +84,21 @@ Undervalued Stock Scanner/
    - Open any workbook from the ``Results`` folder. These workbooks contain the processed data for each sector and will be pre-populated with fundamental stock analysis results.
    - To update the data in your workbook, you may need to refresh the queries. Follow additional steps detailed in ``Instructions.pdf``.
 
-**For more detailed guidance on how to use the workbooks, refer to the "Instructions.pdf" in `Undervalued Stock Scanner/Main` folder.**
+**For more detailed guidance on how to use the workbooks, refer to the "Instructions.pdf" in `Undervalued Stock Scanner\Main` folder.**
+
+## Power BI Dashboards
+Microsoft Power BI was used to create data models for result Excel workbooks (in `Undervalued Stock Scanner\Main\Results`) and generate interactive dashboards. The goal is to provide insights and industry comparisons using the data from these workbooks.
+
+### Requirements
+
+- Microsoft Power BI Desktop installed on your computer.
+- The "Undervalued Stock Scanner" project folder containing Excel workbooks used for modeling and visualization.
+
+### Important Files
+
+The Power BI folder contains the following key files:
+
+- `Undervalued Stocks Dashboard.pbix`: Power BI file with data visualizations for undervalued stock evaluation.
+- `Industry Averages Dashboard.pbix`: Power BI file with data visualizations about industry-level metrics.
+- `Using Dashboards.pdf`: A PDF guide that provides step-by-step instructions on how to use the dashboards and explains how to interpret and analyze the visualizations.
+- `Data Model View_Result Workbooks.pbix`: Power BI file containing a data model view for the Excel workbooks in `Undervalued Stock Scanner\Main\Results` folder. This model organizes the tables and establishes relationships for better analysis.
