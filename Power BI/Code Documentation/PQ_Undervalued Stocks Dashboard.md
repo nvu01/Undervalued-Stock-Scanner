@@ -117,7 +117,7 @@ let
     Source = (FolderPath as any, FileName as any, ResultSheet as any) => let
     Source = Excel.Workbook(File.Contents(FolderPath & "\Main\Results\" & FileName), null, true),
     Result_Sheet = Source{[Item=ResultSheet,Kind="Sheet"]}[Data],
-    #"Removed Top Rows" = Table.Skip(Result_Sheet,6),
+    #"Removed Top Rows" = Table.Skip(Result_Sheet,7),
     #"Promoted Headers" = Table.PromoteHeaders(#"Removed Top Rows", [PromoteAllScalars=true]),
     #"Changed Type" = Table.TransformColumnTypes(#"Promoted Headers",{{"Industry", type text}, {"Symbol", type text}, {"Market Cap (M)", Int64.Type}, {"Current Price", type number}, {"Free CF", type number}, {"BVPS", type number}, {"EPS", type number}, {"P/FCF", type number}, {"P/B", type number}, {"ROE", type number}, {"ROA", type number}, {"A/E", type number}, {"P/E", type number}, {"P/FCF Z-Score", type number}, {"P/B Z-Score", type number}, {"ROE Z-Score", type number}, {"ROA Z-Score", type number}, {"A/E Z-Score", type number}, {"P/E Z-Score", type number}, {"SCORE", Int64.Type}}),
     #"Rounded Off" = Table.TransformColumns(#"Changed Type",{{"P/FCF", each Number.Round(_, 2), type number}, {"P/B", each Number.Round(_, 2), type number}, {"P/E", each Number.Round(_, 2), type number}, {"P/FCF Z-Score", each Number.Round(_, 2), type number}, {"P/B Z-Score", each Number.Round(_, 2), type number}, {"ROE Z-Score", each Number.Round(_, 2), type number}, {"ROA Z-Score", each Number.Round(_, 2), type number}, {"A/E Z-Score", each Number.Round(_, 2), type number}, {"P/E Z-Score", each Number.Round(_, 2), type number}}),

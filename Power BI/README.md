@@ -12,13 +12,13 @@ This part of Undervalued Stock Scanner project uses Microsoft Power BI to create
 The Power BI folder contains the following key files:
 
 - `Undervalued Stocks Dashboard.pbix`: Power BI file with data visualizations for undervalued stock evaluation.
-- `Industry Averages Dashboard.pbix`: Power BI file with data visualizations about industry-level metrics.
+- `Industry Averages Dashboard.pbix`: Power BI file with data visualizations about industry-level averages.
 - `Using Dashboards.pdf`: A PDF guide that provides step-by-step instructions on how to use the dashboards and explains how to interpret and analyze the visualizations.
-- `Data Model View_Result Workbooks.pbix`: Power BI file containing a data model view for the Excel workbooks in `Undervalued Stock Scanner\Main\Results` folder. This model organizes the tables and establishes relationships for better analysis.
+- `Data Model View_Result Workbooks.pbix`: Power BI file containing a data model view for the Excel workbooks in `\Main\Results` folder. This model organizes the tables and establishes relationships for better analysis.
 
 ## How to Use the .pbix Files
 
 For any `.pbix` file, do the following steps when opening the file for the first time in a local machine:
--	Copy the folder path of **Undervalued Stock Scanner** project folder
+-	Copy the path of the project folder that contains the **Main** folder. (Ex: D:\PROJECTS\Undervalued Stock Scanner)
 -	Open a `.pbix` file with Power BI
 -	Home tab --> Click `Transform data` drop-down --> `Edit parameters` --> Click on the `FolderPath` parameter --> Paste the current folder path to replace the default folder path --> Click `OK` --> Click `Apply changes` in the popup at the top
