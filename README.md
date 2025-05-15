@@ -65,17 +65,18 @@ Microsoft Power BI was used to create data models for result Excel workbooks (in
 ```bash
 Undervalued Stock Scanner\
 │              
-├── Downloaded CSV Files\           # Folder containing 11 raw CSV files and 1 sample CSV file
+├── Downloaded CSV Files\         # Folder containing 11 raw CSV files and 1 sample CSV file
 │   
-├── Main\                           # Folder containing workbooks, instructions and code documentation
-│   ├── Instructions.pdf            # Instructions for using the result workbooks
-│   ├── Results\                    # Folder containing all result workbooks (.xlsm files)
-│   ├── Builder.xlsm                # Workbook to build the sample results
-│   ├── Watch List.xlsx             # User's watch list template to track preferred stocks
-│   └── Code Documentation\         # Folder containing documents about all the codes used in workbooks
+├── Main\                         # Folder containing workbooks, instructions and code documentation
+│   ├── Instructions.pdf          # Instructions for using the result workbooks
+│   ├── Results\                  # Folder containing all result workbooks (.xlsm files)
+│   ├── Builder.xlsm              # Workbook to build the sample results
+│   ├── Watch List.xlsx           # User's watch list template to track preferred stocks
+│   └── Code Documentation\       # Folder containing documents about all the codes used in workbooks
 │
-├── Conceptual Framework.pdf        # Detailed explanation of the project's logic and methodology
-└── Table Design.pdf                # Outlines the structure of tables in CSV files and other workbooks
+├── Conceptual Framework.pdf      # Detailed explanation of the project's logic and methodology
+├── Table Design.pdf              # Outlines the structure of tables in CSV files and other workbooks
+└── Common Issues.pdf             # Instructions, troubleshooting guides, and other resources to help users resolve issues they may encounter
 ```
 
 ``Power BI`` contains the following folders and files:
