@@ -83,7 +83,7 @@ Undervalued Stock Scanner\
 │   └── Using Dashboards.pdf                             # A PDF guide that provides step-by-step instructions on how to use the dashboards and explains how to interpret and analyze the visualizations
 │
 ├── Conceptual Framework.pdf      # Detailed explanation of the project's logic and methodology
-├── Table Design.pdf              # Outlines the structure of tables in CSV files and other workbooks
+├── Table Schema.xlsx             # Outlines the structure of tables
 └── Common Issues.pdf             # Instructions, troubleshooting guides, and other resources to help users resolve issues they may encounter
 ```
 
