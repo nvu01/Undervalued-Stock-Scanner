@@ -72,18 +72,79 @@ ROE z-score should be positive and further away from 0
 Rank_ROE_ZS = RANKX(ALLSELECTED('Result_All'), [ROE Z-Score], MAX([ROE Z-Score]), DESC)
 ```
 
-### 3. Score Missed
+### 3. Criterion Columns
+5 new Boolean columns in `Result_All` are used in the horizontal stacked bar chart to indicate whether a stock meet the additional criteria defined in the framework.
+
+#### Criterion 1
+```
+Criterion 1 = VAR Industry = All_Results[Industry]
+VAR MarketCap = All_Results[Market Cap]
+VAR MeanCol = SWITCH(TRUE(), MarketCap = "Large", "Mean_PB_L", MarketCap = "Mid", "Mean_PB_M", "Mean_PB_S")
+VAR MeanValue = CALCULATE(
+        MAXX(ALL_Means, SWITCH(TRUE(), MeanCol = "Mean_PB_L", All_Means[Mean_PB_L], MeanCol = "Mean_PB_M", All_Means[Mean_PB_M], All_Means[Mean_PB_S])),
+        FILTER(All_Means, All_Means[Industry] = Industry)
+    )
+RETURN
+    IF(All_Results[P/B] < 0.7 * MeanValue, 1, 0)
+```
+
+#### Criterion 2
+```
+Criterion 2 = VAR Industry = All_Results[Industry]
+VAR MarketCap = All_Results[Market Cap]
+VAR MeanCol =SWITCH(TRUE(), MarketCap = "Large", "Mean_ROE_L", MarketCap = "Mid", "Mean_ROE_M", "Mean_ROE_S")
+VAR MeanValue = CALCULATE(
+        MAXX(ALL_Means, SWITCH(TRUE(), MeanCol = "Mean_ROE_L", All_Means[Mean_ROE_L], MeanCol = "Mean_ROE_M", All_Means[Mean_ROE_M], All_Means[Mean_ROE_S])),
+        FILTER(All_Means, All_Means[Industry] = Industry)
+    )
+RETURN
+    IF(All_Results[ROE] > MeanValue, 1, 0)
+```
+
+#### Criterion 3
+```
+Criterion 3 = VAR Industry = All_Results[Industry]
+VAR MarketCap = All_Results[Market Cap]
+VAR MeanCol =SWITCH(TRUE(), MarketCap = "Large", "Mean_ROA_L", MarketCap = "Mid", "Mean_ROA_M", "Mean_ROA_S")
+VAR MeanValue =CALCULATE(
+        MAXX(ALL_Means, SWITCH(TRUE(), MeanCol = "Mean_ROA_L", All_Means[Mean_ROA_L], MeanCol = "Mean_ROA_M", All_Means[Mean_ROA_M], All_Means[Mean_ROA_S])),
+        FILTER(All_Means, All_Means[Industry] = Industry)
+    )
+RETURN
+    IF(All_Results[ROA] > MeanValue, 1, 0)
+```
+
+#### Criterion 4
+```
+Criterion 4 = VAR Industry = All_Results[Industry]
+VAR MarketCap = All_Results[Market Cap]
+VAR MeanCol =SWITCH(TRUE(), MarketCap = "Large", "Mean_PE_L", MarketCap = "Mid", "Mean_PE_M", "Mean_PE_S")
+VAR MeanValue = CALCULATE(
+        MAXX(ALL_Means, SWITCH(TRUE(), MeanCol = "Mean_PE_L", All_Means[Mean_PE_L], MeanCol = "Mean_PE_M", All_Means[Mean_PE_M], All_Means[Mean_PE_S])),
+        FILTER(All_Means, All_Means[Industry] = Industry)
+    )
+RETURN
+    IF(All_Results[P/E] < MeanValue, 1, 0)
+```
+
+#### Criterion 5
+```
+Criterion 5 = IF(All_Results[P/E] > 1 && All_Results[P/E] < 25, 1, 0)
+```
+
+
+### 4. Missing Score Column
 This new column in `Result_All` is used in the horizontal stacked bar chart to indicate the total score each stock misses.
 ```
 missing_score = 5 - [SCORE]
 ```
-### 4. Last Update Date and Time
+### 5. Last Update Date and Time
 This measure in `Result_All` returns the date and time of the last data update in result workbooks.
 ```
 LastUpdate = "Last Data Update: " & MAX('Result_All'[Date modified])
 ```
 
-### 5. Dynamic Title
+### 6. Dynamic Title
 This measure in `Parameters` returns the dynamic dashboard title containing the name of sector corresponding to the current source workbook.
 ```
 DynamicTitle = "Undervalued Stocks in " & SELECTEDVALUE('Result_All'[Sector])
