@@ -1,201 +1,249 @@
 ﻿Watchlist Scanner
 
 Results
-Industry,Symbol,Market Cap,Last,Free Cash Flow Per Share - Current (LTM),Book Value Per Share - Current (LTM),Earnings Per Share - TTM - Current (LTM),Return on Equity (ROE) - Current (LTM),Return on Assets (ROA) - Current (LTM),Financial Leverage (Assets/Equity) - Current (LTM)
-Energy Equipment & Services,BORR,398 M,1.665,($1.32),$4.06,$0.32,8.3042,7.1887,3.4427
-Energy Equipment & Services,HP,"1,898 M",19.10,$2.06,$29.71,$3.03,10.646,5.34,1.9739
-Energy Equipment & Services,NBR,374 M,25.7399,$1.47,$32.76,($14.66),-1.604,3.0468,14.737
-Energy Equipment & Services,PDS,537 M,39.745,$12.80,$87.16,$5.20,6.5797,4.4272,1.7194
-Energy Equipment & Services,PTEN,"2,144 M",5.555,$1.03,$8.88,($2.61),-24.839,.5838,1.6824
-Energy Equipment & Services,SDRL,"1,415 M",22.77,($1.01),$46.95,$6.37,15.116,3.0152,1.4243
-Energy Equipment & Services,VAL,"2,577 M",36.26,$1.13,$31.04,$4.29,14.385,6.9512,1.9877
-Energy Equipment & Services,ACDC,678 M,4.2302,$0.70,$6.29,($1.38),-16.838,.7324,2.9676
-Energy Equipment & Services,AESI,"1,477 M",11.95,($1.08),$11.00,$0.30,2.9039,3.1965,1.7638
-Energy Equipment & Services,ARIS,649 M,19.89,$2.58,$11.30,$0.81,8.4568,4.9765,4.0736
-Energy Equipment & Services,AROC,"4,158 M",23.69,$0.44,$7.56,$1.20,15.696,7.0749,2.8894
-Energy Equipment & Services,BKR,"35,925 M",36.26,$2.03,$17.21,$2.93,18.036,5.7872,2.2362
-Energy Equipment & Services,CHX,"4,643 M",24.255,$1.80,$10.01,$1.51,16.834,9.4361,1.8262
-Energy Equipment & Services,CLB,546 M,11.64,$0.94,$5.43,$0.59,11.567,5.2997,2.3344
-Energy Equipment & Services,EFXT,848 M,6.83,$1.99,$8.45,$0.26,3.0432,3.8484,2.6606
-Energy Equipment & Services,FLOC,"1,876 M",20.715,<empty>,<empty>,<empty>,16.498,7.4953,1.8936
-Energy Equipment & Services,HAL,"16,640 M",19.355,$2.28,$12.04,$2.40,21.004,9.1154,2.4288
-Energy Equipment & Services,HLX,983 M,6.485,$0.75,$10.20,$0.55,5.6436,3.2676,1.7052
-Energy Equipment & Services,INVX,"1,056 M",15.22,$1.61,$13.85,$2.77,21.805,6.3698,1.2498
-Energy Equipment & Services,KGS,"2,992 M",34.03,($0.11),$15.49,$0.56,4.0006,5.6619,3.2614
-Energy Equipment & Services,LBRT,"1,803 M",11.135,$1.35,$12.28,$1.51,13.177,5.857,1.6999
-Energy Equipment & Services,NESR,584 M,6.085,$1.41,$8.92,$0.48,1.5494,2.782,2.1017
-Energy Equipment & Services,NOA,468 M,15.755,($1.73),$10.13,$1.05,11.826,5.9437,4.3565
-Energy Equipment & Services,NOV,"4,439 M",11.815,$2.96,$17.03,$1.50,9.1767,5.4643,1.7505
-Energy Equipment & Services,NPKI,664 M,7.85,($0.05),$3.86,$0.49,11.201,4.6661,1.1931
-Energy Equipment & Services,OII,"1,850 M",18.39,$0.84,$7.69,$1.78,25.948,7.8556,2.9429
-Energy Equipment & Services,OIS,263 M,4.255,$0.49,$11.05,$0.08,.7667,.8112,1.4497
-Energy Equipment & Services,PSYTF,658 M,8.335,$0.60,$4.47,$0.63,14.568,10.189,1.2172
-Energy Equipment & Services,PUMP,533 M,5.125,$0.82,$7.96,($1.42),-16.243,2.0813,1.5078
-Energy Equipment & Services,RES,"1,025 M",4.645,$0.63,$5.09,$0.35,7.1878,3.2661,1.2444
-Energy Equipment & Services,RNGR,250 M,11.095,$2.16,$12.12,$0.87,7.4115,5.1741,1.3811
-Energy Equipment & Services,SEI,858 M,21.59,($8.52),$9.40,$0.50,7.0734,4.6767,3.1271
-Energy Equipment & Services,SLB,"45,183 M",33.445,$3.07,$14.35,$2.96,20.201,8.1252,2.511
-Energy Equipment & Services,TDW,"1,941 M",39.24,$5.32,$21.62,$3.34,16.148,8.9678,1.8554
-Energy Equipment & Services,TS,"17,685 M",32.995,$1.89,$16.01,$1.63,10.538,6.6452,1.2013
-Energy Equipment & Services,TTI,376 M,2.825,($0.06),$2.05,$0.88,55.878,6.8379,2.2494
-Energy Equipment & Services,USAC,"2,709 M",23.05,$0.99,($1.20),$0.72,94.47,6.9023,-19.465
-Energy Equipment & Services,VTOL,789 M,27.42,($2.73),$31.15,$3.21,11.067,4.5195,2.3834
-Energy Equipment & Services,WHD,"2,730 M",39.87,$3.43,$16.20,$2.83,19.705,11.162,1.5966
-Energy Equipment & Services,WTTR,763 M,7.365,$0.62,$7.70,$0.30,3.922,2.9566,1.7218
-Energy Equipment & Services,XPRO,891 M,7.72,$0.30,$12.93,$0.58,4.9066,3.8429,1.529
-"Oil, Gas & Consumable Fuels",BP,"73,268 M",28.133,$0.63,$3.69,($0.07),-.2431,2.034,4.8337
-"Oil, Gas & Consumable Fuels",CVE,"21,435 M",11.755,$1.57,$11.22,$1.16,10.745,5.4072,1.9232
-"Oil, Gas & Consumable Fuels",CVX,"236,436 M",135.36,$7.64,$86.10,$8.74,11.266,5.6161,1.6869
-"Oil, Gas & Consumable Fuels",E,"43,719 M",28.62,$1.80,$18.92,$0.83,4.8443,2.4927,2.6976
-"Oil, Gas & Consumable Fuels",EC,"16,190 M",7.875,$0.13,$0.46,$0.08,18.411,8.012,3.6004
-"Oil, Gas & Consumable Fuels",EQNR,"61,914 M",22.875,$2.64,$16.85,$3.15,18.315,13.632,3.0095
-"Oil, Gas & Consumable Fuels",IMO,"34,829 M",68.42,$5.41,$32.05,$6.47,20.965,9.3032,1.8293
-"Oil, Gas & Consumable Fuels",OXY,"38,300 M",39.015,$4.49,$27.57,$2.26,8.9342,4.1226,3.3026
-"Oil, Gas & Consumable Fuels",PBR,"72,789 M",11.295,$1.56,$4.59,$0.46,9.8709,8.9363,3.0732
-"Oil, Gas & Consumable Fuels",SHEL,"193,439 M",65.085,$5.05,$29.72,$2.17,7.5647,5.1675,2.1768
-"Oil, Gas & Consumable Fuels",SU,"41,741 M",33.74,$5.17,$24.88,$3.28,13.705,6.4819,2.017
-"Oil, Gas & Consumable Fuels",TTE,"126,573 M",57.28,$6.82,$53.12,$5.94,11.714,5.2621,2.4675
-"Oil, Gas & Consumable Fuels",XOM,"449,711 M",104.35,$6.41,$60.96,$7.54,14.302,6.1982,1.7201
-"Oil, Gas & Consumable Fuels",YPF,"11,906 M",30.27,$0.53,$29.63,$5.14,21.733,3.9539,2.5223
-"Oil, Gas & Consumable Fuels",APA,"5,570 M",15.40,$2.01,$14.45,$2.27,22.242,7.4673,3.6724
-"Oil, Gas & Consumable Fuels",AR,"11,337 M",36.51,$1.11,$23.17,$0.77,3.7939,1.0593,1.8078
-"Oil, Gas & Consumable Fuels",BKV,"1,542 M",18.20,$0.25,$18.48,($2.00),-10.025,-3.9375,1.4306
-"Oil, Gas & Consumable Fuels",BSM,"2,893 M",13.67,$1.17,$3.93,$1.15,23.123,13.733,1.4704
-"Oil, Gas & Consumable Fuels",BTE,"1,149 M",1.4950,$0.51,$3.75,$0.20,5.9178,6.3307,1.8604
-"Oil, Gas & Consumable Fuels",CDDRF,999 M,4.202,$0.33,$2.11,$0.59,29.71,17.516,1.3373
-"Oil, Gas & Consumable Fuels",CHRD,"5,356 M",90.025,$17.73,$144.87,$16.02,12.318,7.4824,1.4975
-"Oil, Gas & Consumable Fuels",CIVI,"2,512 M",27.135,$8.98,$70.57,$8.46,13.095,6.6642,2.2544
-"Oil, Gas & Consumable Fuels",CNQ,"60,186 M",28.67,$2.62,$13.05,$1.98,15.4,7.5318,2.1627
-"Oil, Gas & Consumable Fuels",CNX,"4,549 M",31.43,$2.29,$25.92,($1.97),-7.3033,-2.1082,2.3992
-"Oil, Gas & Consumable Fuels",COP,"110,437 M",87.36,$6.79,$50.79,$7.81,16.209,8.4034,1.8949
-"Oil, Gas & Consumable Fuels",CRC,"3,468 M",38.255,$4.48,$38.84,$4.62,13.062,7.6349,2.0167
-"Oil, Gas & Consumable Fuels",CRGY,"2,015 M",7.895,($5.17),$16.70,($0.62),-2.4924,1.3983,3.0326
-"Oil, Gas & Consumable Fuels",CRK,"6,514 M",22.24,($1.45),$7.24,($1.12),-13.444,-.2864,3.1117
-"Oil, Gas & Consumable Fuels",CTRA,"17,204 M",22.515,$1.70,$18.81,$1.72,9.4039,4.5847,1.6838
-"Oil, Gas & Consumable Fuels",DEC,766 M,12.91,$0.11,$8.82,($1.84),-16.369,-.9098,8.8441
-"Oil, Gas & Consumable Fuels",DMLP,"1,294 M",27.3399,$3.17,$7.68,$2.13,33.781,20.714,1.0083
-"Oil, Gas & Consumable Fuels",DVN,"19,419 M",30.185,($1.35),$22.27,$4.56,21.857,9.3103,2.1033
-"Oil, Gas & Consumable Fuels",EGY,340 M,3.235,$0.10,$4.83,$0.56,11.932,9.5429,1.9039
-"Oil, Gas & Consumable Fuels",EOG,"58,776 M",107.69,$9.84,$53.55,$10.80,20.9,10.506,1.5918
-"Oil, Gas & Consumable Fuels",EQT,"32,176 M",53.75,$2.16,$34.61,$0.66,2.2967,1.2499,1.9164
-"Oil, Gas & Consumable Fuels",EXE,"26,192 M",110.06,$2.24,$72.39,($5.41),-7.0964,-2.2585,1.6249
-"Oil, Gas & Consumable Fuels",FANG,"37,951 M",129.05,$8.40,$133.92,$16.37,14.668,7.1862,1.8212
-"Oil, Gas & Consumable Fuels",GFR,275 M,3.935,$0.57,$8.20,$1.18,16.013,6.1068,1.5308
-"Oil, Gas & Consumable Fuels",GPOR,"3,359 M",187.83,$10.62,$96.16,($14.72),-13.219,2.781,1.6745
-"Oil, Gas & Consumable Fuels",GPRK,348 M,6.79,$5.33,$3.97,$1.81,50.818,15.135,5.9031
-"Oil, Gas & Consumable Fuels",GRNT,648 M,4.94,($0.55),$4.86,$0.14,2.8705,5.9977,1.6313
-"Oil, Gas & Consumable Fuels",HES,"39,779 M",128.605,$3.63,$37.33,$7.25,22.753,9.9938,2.3555
-"Oil, Gas & Consumable Fuels",HPK,"1,020 M",8.09,$0.56,$12.71,$0.67,6.0262,6.8645,1.9116
-"Oil, Gas & Consumable Fuels",KOS,724 M,1.5150,($0.54),$2.54,$0.40,17.006,5.3093,4.4226
-"Oil, Gas & Consumable Fuels",KRP,"1,113 M",11.88,$3.03,$5.73,($0.12),1.1701,5.0409,2.4125
-"Oil, Gas & Consumable Fuels",MGY,"3,855 M",20.62,$2.40,$10.30,$2.01,20.909,11.522,1.4834
-"Oil, Gas & Consumable Fuels",MNR,"1,569 M",13.26,$1.63,$11.59,$1.90,15.491,7.8346,1.9501
-"Oil, Gas & Consumable Fuels",MTDR,"4,980 M",39.775,$4.40,$42.23,$7.44,19.852,9.742,2.0959
-"Oil, Gas & Consumable Fuels",MUR,"3,004 M",21.05,$5.47,$35.61,$2.72,8.9849,3.8013,1.8612
-"Oil, Gas & Consumable Fuels",NOG,"2,396 M",24.27,($1.22),$24.45,$6.43,29.413,12.36,2.3624
-"Oil, Gas & Consumable Fuels",OBE,301 M,4.085,($0.59),$13.27,($1.86),-13.287,-6.4289,1.5042
-"Oil, Gas & Consumable Fuels",OVV,"8,755 M",33.63,$4.58,$39.67,$4.21,10.869,6.562,1.8637
-"Oil, Gas & Consumable Fuels",PBT,449 M,9.64,<empty>,$0.00,$0.55,13173,371.14,13.911
-"Oil, Gas & Consumable Fuels",PNRG,276 M,165.025,($1.89),$118.78,$21.95,30.452,14.066,1.5997
-"Oil, Gas & Consumable Fuels",PR,"8,393 M",11.8201,$0.45,$12.99,$1.45,12.664,7.2858,1.8491
-"Oil, Gas & Consumable Fuels",PRMRF,"1,639 M",11.45,($0.13),$17.45,$1.57,9.3376,5.1073,1.2875
-"Oil, Gas & Consumable Fuels",REPX,545 M,24.77,$5.62,$23.77,$4.26,19.072,10.008,1.9457
-"Oil, Gas & Consumable Fuels",RRC,"8,503 M",35.58,$1.29,$16.42,$1.11,6.9855,3.441,1.8741
-"Oil, Gas & Consumable Fuels",SBR,916 M,62.84,<empty>,$0.60,$5.46,922.55,536.58,1.0624
-"Oil, Gas & Consumable Fuels",SD,343 M,9.36,($2.21),$12.40,$1.69,13.565,3.645,1.2627
-"Oil, Gas & Consumable Fuels",SJT,289 M,6.20,<empty>,$0.06,$0.11,189.96,79.176,1.2842
-"Oil, Gas & Consumable Fuels",SM,"2,416 M",21.11,($13.29),$38.47,$7.14,20.276,9.66,1.9955
-"Oil, Gas & Consumable Fuels",SOC,"1,797 M",20.12,($3.85),$4.30,($9.21),-173.97,-13.446,4.1209
-"Oil, Gas & Consumable Fuels",STR,"1,318 M",16.90,$1.64,$18.55,$0.49,2.7308,2.6151,3.2371
-"Oil, Gas & Consumable Fuels",TALO,"1,314 M",7.365,$3.55,$15.31,$0.14,.9547,1.4426,2.2453
-"Oil, Gas & Consumable Fuels",TBN,304 M,20.9253,($0.04),$0.08,($0.01),-12.967,-5.4214,1.4881
-"Oil, Gas & Consumable Fuels",TPL,"30,523 M",1327.98,$2.85,$49.30,$19.72,41.731,28.298,1.102
-"Oil, Gas & Consumable Fuels",TPZEF,"2,660 M",17.30,($0.77),$5.97,$0.22,3.6238,3.4075,1.4394
-"Oil, Gas & Consumable Fuels",TXO,704 M,17.02,($4.70),$14.30,$0.40,2.9673,-.9547,1.7551
-"Oil, Gas & Consumable Fuels",VET,945 M,6.12,$1.46,$12.67,($0.21),-1.5999,1.4356,2.1756
-"Oil, Gas & Consumable Fuels",VG,"21,655 M",8.9499,<empty>,<empty>,<empty>,30.723,3.0627,15.012
-"Oil, Gas & Consumable Fuels",VIST,"4,722 M",44.78,($2.41),$16.73,$4.66,32.69,10.947,2.7302
-"Oil, Gas & Consumable Fuels",VNOM,"5,140 M",39.215,($4.45),$20.36,$3.82,16.065,7.7164,2.3328
-"Oil, Gas & Consumable Fuels",VRN,"3,558 M",5.815,$0.59,$7.69,$0.32,4.1662,3.066,1.7381
-"Oil, Gas & Consumable Fuels",VTLE,536 M,13.85,($20.11),$74.37,($4.74),-6.3261,5.1976,2.1769
-"Oil, Gas & Consumable Fuels",VTS,773 M,20.02,$0.64,$16.44,$0.76,4.3538,3.4113,1.4606
-"Oil, Gas & Consumable Fuels",WDS,"24,551 M",12.93,($0.05),$18.64,$1.87,10.224,3.8553,1.7307
-"Oil, Gas & Consumable Fuels",CLMT,968 M,11.18,($1.48),($8.29),($2.67),62.447,1.7628,-3.8695
-"Oil, Gas & Consumable Fuels",CLNE,357 M,1.5934,($0.07),$3.19,($0.37),-11.518,-1.4106,1.7439
-"Oil, Gas & Consumable Fuels",CSAN,"2,449 M",5.27,$0.46,$0.95,($0.84),-18.667,4.427,12.956
-"Oil, Gas & Consumable Fuels",CVI,"2,067 M",20.565,($2.34),$5.77,($1.97),-16.322,-2.9362,7.3293
-"Oil, Gas & Consumable Fuels",DINO,"6,169 M",32.745,$1.25,$48.76,($0.75),-1.3825,-.1813,1.8006
-"Oil, Gas & Consumable Fuels",DK,865 M,13.98,($7.79),$5.00,($10.43),-81.673,-2.308,21.31
-"Oil, Gas & Consumable Fuels",GEVO,260 M,1.0850,($0.47),$2.11,($0.34),-15.024,-8.6885,1.193
-"Oil, Gas & Consumable Fuels",MPC,"44,940 M",144.255,$18.04,$56.16,$10.08,18.127,4.3662,4.444
-"Oil, Gas & Consumable Fuels",PARR,896 M,16.48,($0.91),$21.56,($0.59),-2.6375,.8052,3.2144
-"Oil, Gas & Consumable Fuels",PBF,"2,124 M",18.37,($8.68),$44.22,($9.16),-17.792,-5.4274,2.547
-"Oil, Gas & Consumable Fuels",PSX,"42,940 M",105.39,$7.13,$66.91,$4.42,6.56,.9511,2.634
-"Oil, Gas & Consumable Fuels",REX,654 M,39.38,($0.40),$32.59,$3.30,11.612,5.8066,1.285
-"Oil, Gas & Consumable Fuels",SUN,"7,564 M",55.52,$1.73,$29.86,$6.00,34.641,5.5362,3.5337
-"Oil, Gas & Consumable Fuels",VLO,"36,559 M",116.725,$15.21,$75.00,$2.91,3.7142,2.4558,2.5192
-"Oil, Gas & Consumable Fuels",WKC,"1,464 M",25.86,$3.40,$33.94,$0.32,.9982,2.1451,3.4297
-"Oil, Gas & Consumable Fuels",AM,"8,506 M",17.75,$1.24,$4.36,$0.87,19.708,7.3035,2.7541
-"Oil, Gas & Consumable Fuels",ASC,394 M,9.72,$2.30,$15.02,$3.06,21.987,11.489,1.1599
-"Oil, Gas & Consumable Fuels",BWLP,"1,528 M",10.095,$1.10,$11.91,$2.64,22.412,8.8029,1.8395
-"Oil, Gas & Consumable Fuels",CAPL,861 M,22.625,$1.62,($1.41),$0.52,752.45,3.8099,-20.729
-"Oil, Gas & Consumable Fuels",CLCO,320 M,6.015,($0.77),$14.17,$1.82,12.856,4.7368,2.9457
-"Oil, Gas & Consumable Fuels",CMBT,"1,808 M",9.31,($3.38),$6.14,$4.44,49.065,6.3023,3.2752
-"Oil, Gas & Consumable Fuels",CQP,"28,235 M",58.33,$5.81,$3.76,$4.26,-388.24,11.531,9.5843
-"Oil, Gas & Consumable Fuels",DHT,"1,780 M",11.085,$1.25,$6.49,$1.12,17.496,7.6678,1.4318
-"Oil, Gas & Consumable Fuels",DKL,"2,094 M",39.02,$1.57,$0.69,$2.99,-225.87,6.6648,57.463
-"Oil, Gas & Consumable Fuels",DTM,"10,274 M",101.135,$4.52,$45.69,$3.68,8.3186,3.3959,2.1396
-"Oil, Gas & Consumable Fuels",ECO,777 M,24.135,$5.06,$12.75,$3.38,26.599,9.2112,2.6365
-"Oil, Gas & Consumable Fuels",EE,799 M,24.97,$5.16,$20.45,$1.27,8.2769,4.679,5.9084
-"Oil, Gas & Consumable Fuels",ENB,"101,812 M",46.72,$1.71,$18.87,$1.63,8.4437,3.139,3.7063
-"Oil, Gas & Consumable Fuels",EPD,"65,339 M",30.17,$1.65,$13.27,$2.66,20.429,5.8893,2.6858
-"Oil, Gas & Consumable Fuels",ET,"57,936 M",16.885,$2.05,$9.11,$1.28,14.405,4.8049,4.0099
-"Oil, Gas & Consumable Fuels",FLNG,"1,296 M",23.9692,$3.39,$14.91,$2.18,14.228,4.5971,3.3087
-"Oil, Gas & Consumable Fuels",FRO,"3,804 M",17.085,($0.80),$10.51,$2.23,21.465,6.9156,2.6577
-"Oil, Gas & Consumable Fuels",GEL,"1,760 M",14.375,($2.31),$2.36,($1.24),-2.0459,2.2774,24.32
-"Oil, Gas & Consumable Fuels",GLNG,"4,081 M",39.005,($1.17),$19.27,$0.48,3.25,1.2588,2.1685
-"Oil, Gas & Consumable Fuels",GLP,"1,694 M",50.32,($8.47),$19.05,$2.41,14.196,4.1853,5.9078
-"Oil, Gas & Consumable Fuels",HAFN,"2,482 M",4.985,$1.92,$4.50,$1.50,34.476,12.756,1.6364
-"Oil, Gas & Consumable Fuels",HESM,"4,360 M",37.35,$7.13,$5.10,$2.55,159.08,14.467,7.8217
-"Oil, Gas & Consumable Fuels",INSW,"1,785 M",36.175,$5.42,$37.73,$8.38,23.328,10.231,1.4204
-"Oil, Gas & Consumable Fuels",KMI,"61,215 M",27.54,$0.96,$13.77,$1.16,8.4499,3.7276,2.363
-"Oil, Gas & Consumable Fuels",KNTK,"2,439 M",40.03,$6.10,($49.67),$1.02,8.7131,1.7943,-2.2895
-"Oil, Gas & Consumable Fuels",LNG,"52,959 M",237.68,$13.82,$25.44,$14.20,47.086,8.7523,7.6957
-"Oil, Gas & Consumable Fuels",LPG,912 M,21.31,$5.92,$24.96,$3.87,15.719,6.192,1.7034
-"Oil, Gas & Consumable Fuels",MPLX,"50,215 M",49.11,$4.77,$13.35,$4.21,31.579,7.5736,2.763
-"Oil, Gas & Consumable Fuels",NAT,552 M,2.6050,$0.60,$2.40,$0.22,8.9088,5.6954,1.6068
-"Oil, Gas & Consumable Fuels",NEXT,"1,937 M",7.425,($10.30),$1.45,($0.24),22.331,-2.1982,16.958
-"Oil, Gas & Consumable Fuels",NFE,"1,619 M",5.905,($9.35),$7.04,($1.34),-12.534,3.3924,6.8574
-"Oil, Gas & Consumable Fuels",NGL,405 M,3.07,($3.03),($1.17),($2.53),-19.596,3.0375,-31.456
-"Oil, Gas & Consumable Fuels",NXXT,374 M,3.34,($2.93),$0.33,($4.59),-12984,-50.78,5.6484
-"Oil, Gas & Consumable Fuels",OKE,"49,914 M",79.91,$5.17,$34.20,$5.11,16.409,6.0479,3.008
-"Oil, Gas & Consumable Fuels",PAA,"11,760 M",16.71,$2.30,$10.67,$0.73,8.2973,3.9018,3.5359
-"Oil, Gas & Consumable Fuels",PAGP,"3,546 M",17.93,$9.36,$6.84,$0.52,7.2779,2.9545,20.545
-"Oil, Gas & Consumable Fuels",PBA,"22,882 M",39.405,$2.55,$18.37,$2.09,11.247,4.6821,2.3437
-"Oil, Gas & Consumable Fuels",SMC,339 M,27.655,$0.77,$33.54,($13.33),-11.66,1.4794,6.5988
-"Oil, Gas & Consumable Fuels",SOBO,"5,409 M",25.975,$1.96,$12.55,$1.52,11.596,3.9863,4.3406
-"Oil, Gas & Consumable Fuels",STNG,"2,051 M",40.20,$14.01,$61.85,$10.31,18.065,6.3378,1.36
-"Oil, Gas & Consumable Fuels",TEN,520 M,17.27,$2.24,$56.99,$4.95,10.861,5.0313,2.0832
-"Oil, Gas & Consumable Fuels",TGS,"3,922 M",26.05,$0.25,$2.88,$0.48,18.071,9.7021,1.5199
-"Oil, Gas & Consumable Fuels",TK,658 M,7.88,$5.06,$8.44,$1.42,21.503,9.5637,3.0336
-"Oil, Gas & Consumable Fuels",TNK,"1,586 M",46.13,$11.53,$51.12,$11.63,24.415,11.1,1.1238
-"Oil, Gas & Consumable Fuels",TRGP,"34,258 M",157.92,$2.92,$11.27,$5.44,41.976,7.4441,9.3006
-"Oil, Gas & Consumable Fuels",TRMD,"1,616 M",16.53,$2.60,$21.31,$6.36,32.694,11.978,1.6729
-"Oil, Gas & Consumable Fuels",TRP,"52,978 M",50.94,$0.39,$16.84,$2.80,12.743,2.9483,4.7847
-"Oil, Gas & Consumable Fuels",UGP,"3,195 M",2.9800,$0.29,$2.27,$0.34,16.922,6.1528,2.6096
-"Oil, Gas & Consumable Fuels",WES,"13,644 M",35.78,$3.43,$8.47,$4.02,50.318,7.6502,4.0762
-"Oil, Gas & Consumable Fuels",WMB,"71,844 M",58.84,$1.66,$10.20,$1.86,16.197,3.9936,4.4109
-"Oil, Gas & Consumable Fuels",ARLP,"3,470 M",27.02,$2.53,$14.10,$2.11,15.005,7.4765,1.6028
-"Oil, Gas & Consumable Fuels",BTU,"1,754 M",14.425,$1.64,$30.07,$2.73,11.134,3.8793,1.6309
-"Oil, Gas & Consumable Fuels",CCJ,"21,561 M",49.53,$1.16,$10.36,$0.40,3.9457,3.539,1.4456
-"Oil, Gas & Consumable Fuels",CNR,"4,011 M",75.05,$10.05,$53.33,$9.61,19.673,7.4478,1.8362
-"Oil, Gas & Consumable Fuels",DNN,"1,357 M",1.5136,($0.04),$0.44,($0.07),-15.188,-5.3235,1.176
-"Oil, Gas & Consumable Fuels",EU,300 M,1.6050,($0.36),$1.54,($0.34),-23.425,-12.544,1.3744
-"Oil, Gas & Consumable Fuels",HNRG,649 M,15.10,$0.32,$2.45,($5.72),-121.29,.2059,3.5395
-"Oil, Gas & Consumable Fuels",LEU,"1,230 M",72.22,$2.02,$9.63,$4.47,75.581,4.1675,6.7745
-"Oil, Gas & Consumable Fuels",NRP,"1,300 M",98.93,$18.64,$41.50,$11.35,32.522,14.023,1.4272
-"Oil, Gas & Consumable Fuels",NXE,"3,173 M",5.575,($0.19),$1.44,($0.10),-7.7595,-3.6701,1.4056
-"Oil, Gas & Consumable Fuels",UEC,"2,454 M",5.725,($0.12),$2.05,($0.16),-7.9185,-3.3397,1.1194
-"Oil, Gas & Consumable Fuels",URG,254 M,.69640,($0.25),$0.36,($0.17),-51.225,-24.453,1.4618
-"Oil, Gas & Consumable Fuels",UROY,257 M,1.9250,($0.27),$1.53,$0.00,.4002,-.0719,1.0043
-"Oil, Gas & Consumable Fuels",UUUU,"1,013 M",4.715,($0.44),$2.66,($0.28),-10.504,-4.5827,1.1595
+Industry,Symbol,Market Cap,Last,Free Cash Flow Per Share - Current (LTM),Book Value Per Share - Current (LTM),Earnings Per Share - TTM - Current (LTM),Return on Equity (ROE) - Current (LTM),Return on Assets (ROA) - Current (LTM),Financial Leverage (Assets/Equity) - Current (LTM),1
+"Oil, Gas & Consumable Fuels",KWTEF,566 M,12.89,<empty>,<empty>,<empty>,6.0156,5.7711,1.6446,
+Energy Equipment & Services,OMSE,361 M,8.51,<empty>,<empty>,<empty>,147.54,21.379,1.7733,
+"Oil, Gas & Consumable Fuels",CHRD,"5,198 M",90.00,$19.21,$148.09,$15.19,12.693,7.8165,1.5152,
+"Oil, Gas & Consumable Fuels",FANG,"39,311 M",134.55,$8.40,$133.92,$16.37,14.668,7.1349,1.8212,
+"Oil, Gas & Consumable Fuels",PNRG,321 M,193.10,$6.39,$122.55,$21.32,28.43,12.313,1.6556,
+"Oil, Gas & Consumable Fuels",DELKY,"3,275 M",17.91,$42.16,$117.56,$15.65,11.14,6.7428,6.117,
+"Oil, Gas & Consumable Fuels",GPOR,"3,402 M",191.50,$10.63,$92.92,($17.28),-16.015,1.3444,1.7805,
+Energy Equipment & Services,PDS,582 M,43.06,$12.80,$87.16,$5.20,6.5797,4.4272,1.7194,
+"Oil, Gas & Consumable Fuels",CVX,"236,764 M",136.70,$7.60,$85.46,$8.74,10.079,5.2326,1.718,
+"Oil, Gas & Consumable Fuels",VLO,"40,394 M",128.97,$15.21,$75.00,$2.91,3.7142,2.4558,2.5192,
+"Oil, Gas & Consumable Fuels",CNR,"3,649 M",69.30,$2.55,$74.01,$3.30,4.3612,2.8079,1.6048,
+"Oil, Gas & Consumable Fuels",VTLE,577 M,14.88,($15.42),$73.37,($3.40),-4.6057,5.1147,2.1292,
+"Oil, Gas & Consumable Fuels",CIVI,"2,534 M",27.37,$9.00,$72.42,$8.73,12.725,6.4991,2.2864,
+"Oil, Gas & Consumable Fuels",EXE,"27,637 M",116.13,$2.24,$72.39,($5.41),-7.0964,-2.2585,1.6249,
+"Oil, Gas & Consumable Fuels",PSX,"46,236 M",113.48,$7.13,$66.91,$4.42,6.56,.9511,2.634,
+"Oil, Gas & Consumable Fuels",STNG,"2,027 M",39.74,$14.01,$61.85,$10.31,18.065,6.3378,1.36,
+"Oil, Gas & Consumable Fuels",XOM,"440,876 M",102.30,$6.42,$60.96,$7.55,14.302,6.1982,1.7201,
+"Oil, Gas & Consumable Fuels",TEN,547 M,18.16,$2.24,$56.99,$4.95,10.861,5.0313,2.0832,
+"Oil, Gas & Consumable Fuels",NC,267 M,35.86,($1.73),$54.97,$4.61,8.6176,-4.558,1.5501,
+"Oil, Gas & Consumable Fuels",EOG,"59,256 M",108.57,$9.84,$53.55,$10.80,20.9,10.506,1.5918,
+"Oil, Gas & Consumable Fuels",TTE,"129,310 M",58.68,$6.82,$53.12,$5.94,11.714,5.2621,2.4675,
+"Oil, Gas & Consumable Fuels",MPC,"49,382 M",160.74,$13.59,$53.06,$7.39,15.524,3.4689,4.9788,
+"Oil, Gas & Consumable Fuels",TNK,"1,524 M",44.19,$9.29,$52.98,$9.52,18.961,8.1065,1.1091,
+"Oil, Gas & Consumable Fuels",TPL,"25,609 M",1114.03,$2.81,$52.48,$19.99,39.524,26.72,1.1219,
+"Oil, Gas & Consumable Fuels",COP,"107,747 M",85.35,$7.21,$51.68,$7.91,16.66,8.7823,1.9046,
+"Oil, Gas & Consumable Fuels",DINO,"6,807 M",36.13,$1.25,$48.76,($0.75),-1.3825,-.1813,1.8006,
+Energy Equipment & Services,SDRL,"1,444 M",23.20,($2.24),$46.78,$5.56,12.751,2.1075,1.3972,
+"Oil, Gas & Consumable Fuels",DTM,"10,641 M",104.74,$4.52,$45.69,$3.68,8.3186,3.3959,2.1396,
+"Oil, Gas & Consumable Fuels",PBF,"2,203 M",19.05,($8.68),$44.22,($9.16),-17.792,-5.4274,2.547,
+"Oil, Gas & Consumable Fuels",MTDR,"5,385 M",43.01,$4.40,$42.23,$7.44,19.852,9.742,2.0959,
+"Oil, Gas & Consumable Fuels",NRP,"1,288 M",98.00,$15.86,$42.19,$10.41,30.603,12.914,1.3935,
+"Oil, Gas & Consumable Fuels",SMC,308 M,25.14,$0.77,$41.97,($25.29),-23.237,1.4468,5.4413,
+"Oil, Gas & Consumable Fuels",CRC,"3,939 M",44.17,$5.35,$39.43,$5.76,17.864,10.257,1.9417,
+"Oil, Gas & Consumable Fuels",OVV,"9,307 M",35.82,$5.34,$38.61,$2.38,6.1744,6.9585,1.9458,
+"Oil, Gas & Consumable Fuels",SM,"2,681 M",23.42,($13.29),$38.47,$7.14,20.276,9.66,1.9955,
+"Oil, Gas & Consumable Fuels",INSW,"1,828 M",37.05,$2.52,$37.92,$6.47,17.567,7.7781,1.3604,
+"Oil, Gas & Consumable Fuels",HES,"40,883 M",132.19,$3.63,$37.40,$7.21,22.753,9.6828,2.3555,
+"Oil, Gas & Consumable Fuels",MUR,"2,987 M",20.93,$4.07,$35.88,$2.63,8.6133,3.5072,1.9179,
+"Oil, Gas & Consumable Fuels",EQT,"33,002 M",55.13,$2.16,$34.61,$0.66,2.2967,1.2499,1.9164,
+"Oil, Gas & Consumable Fuels",OKE,"50,495 M",80.84,$5.17,$34.20,$5.11,16.409,6.0479,3.008,
+"Oil, Gas & Consumable Fuels",WKC,"1,551 M",27.39,$3.40,$33.94,$0.32,.9982,2.1451,3.4297,
+"Oil, Gas & Consumable Fuels",IMO,"36,320 M",71.35,$6.20,$33.33,$6.47,20.55,9.1823,1.7979,
+"Oil, Gas & Consumable Fuels",REX,694 M,42.14,$0.55,$32.56,$3.24,11.475,5.8968,1.2936,
+Energy Equipment & Services,VTOL,842 M,29.26,($3.24),$32.38,$3.89,13.202,4.9067,2.3314,
+Energy Equipment & Services,VAL,"2,674 M",37.62,$1.13,$31.04,$4.29,14.385,6.9512,1.9877,
+"Oil, Gas & Consumable Fuels",SUN,"7,354 M",53.94,$0.11,$30.49,$5.21,32.253,5.4005,3.4509,
+"Oil, Gas & Consumable Fuels",BTU,"1,600 M",13.16,$1.60,$30.16,$2.72,11.044,3.8188,1.5768,
+"Oil, Gas & Consumable Fuels",SHEL,"195,780 M",66.22,$5.05,$29.72,$2.17,7.5647,5.1675,2.1768,
+"Oil, Gas & Consumable Fuels",YPF,"13,915 M",35.38,($0.33),$29.67,$3.61,14.695,3.7294,2.545,
+Energy Equipment & Services,HP,"1,516 M",15.25,$0.76,$29.52,$2.20,7.58,4.1905,2.4676,
+"Oil, Gas & Consumable Fuels",TRMLF,"16,884 M",45.07,$1.25,$28.75,$2.34,8.3486,4.584,1.4463,
+"Oil, Gas & Consumable Fuels",OXY,"40,133 M",40.78,$4.53,$28.05,$2.47,9.4896,4.5103,3.2154,
+"Oil, Gas & Consumable Fuels",CNX,"4,672 M",32.28,$2.29,$25.92,($1.97),-7.3033,-2.1082,2.3992,
+"Oil, Gas & Consumable Fuels",SU,"43,640 M",35.55,$4.96,$25.28,$3.35,13.675,6.4803,2.0007,
+"Oil, Gas & Consumable Fuels",LNG,"52,561 M",236.99,$14.02,$25.05,$13.71,46.98,8.5562,7.8025,
+"Oil, Gas & Consumable Fuels",LPG,913 M,21.41,$5.92,$24.47,$2.14,8.7136,3.8936,1.7003,
+"Oil, Gas & Consumable Fuels",NOG,"2,624 M",26.58,($1.22),$24.45,$6.43,29.413,12.36,2.3624,
+"Oil, Gas & Consumable Fuels",REPX,565 M,25.66,$6.02,$24.33,$4.67,20.429,10.597,1.8689,
+Energy Equipment & Services,NBR,405 M,25.81,($6.96),$23.58,($14.66),-1.604,3.0468,14.737,
+"Oil, Gas & Consumable Fuels",AR,"11,629 M",37.45,$1.11,$23.17,$0.77,3.7939,1.0593,1.8078,
+"Oil, Gas & Consumable Fuels",DVN,"19,430 M",30.26,($1.08),$22.59,$4.38,20.963,9.5584,2.1264,
+"Oil, Gas & Consumable Fuels",FECCF,325 M,4.20,$2.25,$22.31,$0.14,.635,2.0834,1.6628,
+Energy Equipment & Services,TDW,"1,965 M",39.71,$5.32,$21.90,$3.34,16.148,8.9693,1.8554,
+"Oil, Gas & Consumable Fuels",TRMD,"1,565 M",15.98,$3.70,$21.90,$4.74,22.114,8.4834,1.6282,
+"Oil, Gas & Consumable Fuels",PARR,"1,114 M",21.59,($1.75),$21.25,($1.09),-4.9498,.157,3.3758,
+Energy Equipment & Services,PHIG,"1,124,975 M",24.00,$2.48,$20.90,$3.26,20.474,8.1679,1.5051,
+Energy Equipment & Services,NGS,300 M,23.97,$0.15,$20.86,$1.34,6.7724,4.6206,1.9276,
+"Oil, Gas & Consumable Fuels",EE,900 M,28.13,$7.65,$20.80,$1.53,9.416,5.0984,5.8442,
+"Oil, Gas & Consumable Fuels",VNOM,"5,203 M",39.69,($4.45),$20.36,$3.82,16.065,7.7164,2.3328,
+"Oil, Gas & Consumable Fuels",AKRBY,"14,726 M",11.65,$2.57,$19.95,$2.55,12.836,12.663,3.4337,
+"Oil, Gas & Consumable Fuels",ENB,"101,328 M",46.48,$1.48,$19.59,$1.88,9.4614,3.3532,3.5815,
+"Oil, Gas & Consumable Fuels",STHRF,"4,542 M",21.20,$2.27,$19.38,$2.30,12.427,6.906,1.9318,
+"Oil, Gas & Consumable Fuels",PARXF,959 M,9.83,$2.25,$19.23,$0.81,4.216,9.6565,1.1688,
+"Oil, Gas & Consumable Fuels",GLNG,"4,309 M",41.16,($0.82),$19.05,$0.03,1.0831,.5196,2.194,
+"Oil, Gas & Consumable Fuels",E,"45,110 M",29.56,$1.80,$18.92,$0.83,4.8443,2.4927,2.6976,
+"Oil, Gas & Consumable Fuels",WDS,"27,209 M",14.33,($0.05),$18.64,$1.87,10.224,3.8553,1.7307,
+"Oil, Gas & Consumable Fuels",CTRA,"18,555 M",24.31,$1.70,$18.62,$1.71,9.4039,4.6209,1.6838,
+"Oil, Gas & Consumable Fuels",PBA,"21,772 M",37.48,$3.01,$18.43,$2.13,11.574,5.1534,2.3175,
+"Oil, Gas & Consumable Fuels",GLP,"1,781 M",52.52,($4.64),$18.29,$3.13,18.086,4.6724,6.1588,
+"Oil, Gas & Consumable Fuels",STR,"1,323 M",17.07,$1.42,$18.28,$0.52,3.0025,2.8744,3.2831,
+"Oil, Gas & Consumable Fuels",BKV,"1,821 M",21.50,($0.22),$17.54,($2.41),-13.357,-5.5038,1.5191,
+Energy Equipment & Services,BKR,"36,707 M",37.05,$2.03,$17.21,$2.93,18.036,5.7872,2.2362,
+Energy Equipment & Services,NOV,"4,509 M",12.00,$2.96,$17.03,$1.50,9.1767,5.4643,1.7505,
+"Oil, Gas & Consumable Fuels",EQNR,"63,531 M",23.49,$2.64,$16.85,$3.15,18.315,13.632,3.0095,
+"Oil, Gas & Consumable Fuels",TRP,"52,647 M",50.64,$0.39,$16.84,$2.80,12.743,2.9483,4.7847,
+"Oil, Gas & Consumable Fuels",VIST,"5,223 M",49.53,($2.41),$16.73,$4.66,32.69,10.947,2.7302,
+"Oil, Gas & Consumable Fuels",CRGY,"2,142 M",8.39,($5.01),$16.70,($0.60),-2.4924,1.4035,3.0326,
+"Oil, Gas & Consumable Fuels",VTS,808 M,20.93,$0.64,$16.44,$0.76,4.3538,3.7447,1.4606,
+"Oil, Gas & Consumable Fuels",RRC,"9,091 M",38.04,$1.29,$16.42,$1.11,6.9855,3.441,1.8741,
+Energy Equipment & Services,WHD,"2,807 M",41.00,$3.43,$16.20,$2.83,19.705,11.162,1.5966,
+"Oil, Gas & Consumable Fuels",NATKY,"9,892 M",38.14,$3.55,$16.14,$4.30,31.624,15.052,1.7823,
+Energy Equipment & Services,TS,"17,929 M",33.45,$1.89,$16.01,$1.63,10.538,6.6452,1.2013,
+"Oil, Gas & Consumable Fuels",TALO,"1,435 M",8.04,$3.55,$15.31,$0.14,.9547,1.9691,2.2453,
+Energy Equipment & Services,KGS,"3,102 M",35.31,$0.42,$15.30,$0.54,4.0896,6.1075,3.3011,
+Energy Equipment & Services,TRRVF,"2,536 M",117.858258,$3.01,$15.14,$2.80,24.68,5.9202,4.6846,
+"Oil, Gas & Consumable Fuels",ASC,390 M,9.61,$1.99,$15.03,$2.30,16.088,8.4193,1.1306,
+"Oil, Gas & Consumable Fuels",FLNG,"1,293 M",23.90,$3.49,$14.51,$1.91,12.694,4.5502,3.3482,
+"Oil, Gas & Consumable Fuels",CLCO,322 M,6.08,($3.87),$14.35,$1.31,9.1723,4.359,3.0533,
+Energy Equipment & Services,SLB,"44,649 M",33.05,$3.07,$14.35,$2.96,20.201,8.1252,2.511,
+"Oil, Gas & Consumable Fuels",TXO,793 M,14.96,($4.70),$14.30,$0.40,2.9673,-.9547,1.7551,
+Energy Equipment & Services,INVX,952 M,13.80,$1.58,$14.11,$2.31,21.214,6.3698,1.2224,
+"Oil, Gas & Consumable Fuels",ARLP,"3,343 M",26.03,$2.53,$14.10,$2.13,15.005,7.4866,1.6028,
+"Oil, Gas & Consumable Fuels",KMI,"62,327 M",28.04,$0.96,$13.77,$1.16,8.4499,3.7276,2.363,
+"Oil, Gas & Consumable Fuels",MPLX,"52,061 M",51.00,$4.72,$13.55,$4.33,32.315,7.5762,2.8163,
+"Oil, Gas & Consumable Fuels",OBE,338 M,4.79,($0.38),$13.46,($1.85),-13.024,-6.0928,1.5395,
+"Oil, Gas & Consumable Fuels",CNQ,"63,573 M",30.37,$3.03,$13.40,$2.47,18.954,8.7612,2.097,
+Energy Equipment & Services,THNPY,"6,725 M",38.06,$5.78,$13.34,$2.41,19.824,3.1487,4.2468,
+"Oil, Gas & Consumable Fuels",EPD,"66,846 M",30.82,$1.73,$13.33,$2.66,20.198,5.8906,2.6079,
+"Oil, Gas & Consumable Fuels",PR,"8,837 M",12.61,$0.92,$13.31,$1.62,14.008,8.0092,1.8197,
+"Oil, Gas & Consumable Fuels",VET,"1,006 M",6.51,($3.64),$12.99,($0.15),-1.1628,1.4687,2.4585,
+"Oil, Gas & Consumable Fuels",HPK,"1,247 M",9.89,$0.19,$12.96,$0.88,7.8549,6.6034,1.8937,
+Energy Equipment & Services,XPRO,960 M,8.32,$0.30,$12.93,$0.58,4.9066,3.8429,1.529,
+"Oil, Gas & Consumable Fuels",PRMRF,"1,990 M",13.90,($0.38),$12.84,$7.26,50.232,5.6406,1.3671,
+"Oil, Gas & Consumable Fuels",ECO,751 M,23.33,$3.12,$12.79,$2.48,19.012,7.335,2.5973,
+"Oil, Gas & Consumable Fuels",SD,360 M,9.81,($2.31),$12.66,$1.74,14.675,4.2029,1.2653,
+"Oil, Gas & Consumable Fuels",PKIUF,"4,901 M",28.10,$4.05,$12.59,$0.77,6.2094,3.7805,4.422,
+"Oil, Gas & Consumable Fuels",LEU,"2,162 M",126.92,$3.83,$12.56,$6.39,85.991,5.706,6.0491,
+"Oil, Gas & Consumable Fuels",MEGEF,"4,455 M",17.51,$1.93,$12.52,$1.62,13.625,8.9054,1.4699,
+Energy Equipment & Services,ARIS,719 M,22.04,$0.82,$12.51,$0.83,8.0275,4.9112,3.5428,
+"Oil, Gas & Consumable Fuels",SOBO,"5,414 M",26.00,$1.93,$12.49,$1.40,10.287,3.67,4.2981,
+Energy Equipment & Services,LBRT,"1,877 M",11.59,$1.35,$12.28,$1.51,13.177,5.857,1.6999,
+"Oil, Gas & Consumable Fuels",GPRE,272 M,4.16,($1.94),$12.20,($1.63),-12.029,-2.9077,2.0897,
+Energy Equipment & Services,HAL,"16,842 M",19.59,$2.67,$12.04,$2.40,21.004,9.1154,2.4288,
+"Oil, Gas & Consumable Fuels",BWLP,"1,583 M",10.46,($1.20),$11.72,$1.86,17.412,7.1044,1.8864,
+"Oil, Gas & Consumable Fuels",MNR,"1,576 M",13.32,$1.30,$11.65,$1.56,12.638,7.5524,1.6266,
+"Oil, Gas & Consumable Fuels",FRVWY,"1,368 M",17.10,$4.47,$11.55,$2.31,24.483,11.345,1.889,
+"Oil, Gas & Consumable Fuels",CVE,"23,906 M",13.18,$1.27,$11.38,$1.05,9.4494,4.9394,1.8909,
+"Oil, Gas & Consumable Fuels",TRGP,"34,260 M",157.93,$2.92,$11.27,$5.44,41.976,7.4441,9.3006,
+Energy Equipment & Services,OIS,269 M,4.35,$0.49,$11.05,$0.08,.7667,.8112,1.4497,
+Energy Equipment & Services,NOA,504 M,17.14,($1.31),$10.85,$0.94,9.3581,5.3695,3.8847,
+"Oil, Gas & Consumable Fuels",PAA,"11,633 M",16.54,$2.57,$10.80,$0.93,9.643,4.2106,3.5604,
+Energy Equipment & Services,TOTZF,279 M,7.449497,$1.62,$10.74,$1.14,11.363,5.433,1.7057,
+Energy Equipment & Services,AESI,"1,502 M",12.15,($1.08),$10.52,$0.30,2.9039,3.1113,1.7638,
+"Oil, Gas & Consumable Fuels",FRO,"4,070 M",18.28,$3.08,$10.46,$1.56,14.794,5.4288,2.6353,
+"Oil, Gas & Consumable Fuels",CCJ,"25,479 M",58.53,$1.16,$10.36,$0.40,3.9457,3.539,1.4456,
+"Oil, Gas & Consumable Fuels",MGY,"4,019 M",21.50,$2.40,$10.30,$2.01,20.909,11.522,1.4834,
+"Oil, Gas & Consumable Fuels",WMB,"73,883 M",60.51,$1.66,$10.20,$1.86,16.197,3.9936,4.4109,
+Energy Equipment & Services,HLX,938 M,6.19,$0.75,$10.20,$0.55,5.6436,3.2676,1.7052,
+Energy Equipment & Services,CHX,"4,608 M",24.07,$1.80,$10.01,$1.51,16.834,9.4361,1.8262,
+"Oil, Gas & Consumable Fuels",AETUF,"12,198 M",20.85,$1.10,$9.62,$1.57,17.227,8.715,1.6103,
+Energy Equipment & Services,SEI,"1,108 M",27.43,($8.52),$9.40,$0.50,7.0734,4.6767,3.1271,
+"Oil, Gas & Consumable Fuels",ET,"59,987 M",17.48,$1.68,$9.16,$1.32,14.483,4.802,4.0227,
+"Oil, Gas & Consumable Fuels",PEYUF,"2,683 M",13.48,$0.90,$9.05,$1.03,11.173,5.5951,2.0656,
+Energy Equipment & Services,NESR,596 M,6.18,$1.41,$8.92,$0.48,1.5494,2.782,2.1017,
+Energy Equipment & Services,PTEN,"2,131 M",5.52,$1.03,$8.88,($2.61),-24.839,.5838,1.6824,
+"Oil, Gas & Consumable Fuels",DEC,829 M,13.97,$0.11,$8.82,($1.84),-16.369,-.9098,8.8441,
+Energy Equipment & Services,EFXT,868 M,7.03,$1.97,$8.66,$0.60,7.0476,5.2513,2.5656,
+Energy Equipment & Services,MTTRF,428 M,6.92,($0.76),$8.66,$0.47,5.8389,3.1121,2.2249,
+"Oil, Gas & Consumable Fuels",KEYUF,"6,982 M",30.47,$2.38,$8.62,$1.65,19.548,6.5228,3.0493,
+"Oil, Gas & Consumable Fuels",TK,706 M,8.45,$5.06,$8.44,$1.85,21.503,9.5637,3.0336,
+"Oil, Gas & Consumable Fuels",NUVSF,"2,035 M",10.14,$0.75,$8.41,$1.28,16.736,9.9146,1.4746,
+"Oil, Gas & Consumable Fuels",WES,"14,262 M",37.40,$3.90,$8.35,$3.34,39.989,7.8616,3.9131,
+"Oil, Gas & Consumable Fuels",GFR,294 M,4.19,$0.80,$8.33,$1.78,24.826,8.1187,1.5155,
+Energy Equipment & Services,PUMP,561 M,5.40,$0.82,$7.96,($1.42),-16.243,2.0813,1.5078,
+"Oil, Gas & Consumable Fuels",PREKF,"3,970 M",16.8587,$0.84,$7.81,$0.66,8.3742,5.8147,1.2334,
+"Oil, Gas & Consumable Fuels",IPCFF,"1,643 M",14.452,($0.99),$7.76,$0.68,8.9182,5.4536,2.1273,
+Energy Equipment & Services,AROC,"4,403 M",24.90,($0.12),$7.69,$1.20,18.149,7.7857,2.9369,
+Energy Equipment & Services,OII,"1,918 M",19.07,$0.84,$7.69,$1.78,25.948,7.8556,2.9429,
+Energy Equipment & Services,WTTR,836 M,8.04,$0.10,$7.63,$0.34,4.5572,2.9398,1.9484,
+"Oil, Gas & Consumable Fuels",DMLP,"1,267 M",26.77,$3.16,$7.30,$2.03,35.187,21.524,1.0094,
+"Oil, Gas & Consumable Fuels",CRK,"6,825 M",23.30,($1.45),$7.24,($1.12),-13.444,-.2864,3.1117,
+"Oil, Gas & Consumable Fuels",SPGYF,"7,671 M",6.23,$0.75,$6.87,$1.07,16.276,6.7519,1.6842,
+"Oil, Gas & Consumable Fuels",PAGP,"3,480 M",17.60,$10.32,$6.86,$0.74,8.4732,3.259,20.835,
+"Oil, Gas & Consumable Fuels",AAVVF,"1,359 M",8.126,($0.28),$6.70,($0.13),-2.0344,.6603,1.8449,
+"Oil, Gas & Consumable Fuels",CMBT,"1,715 M",8.83,($4.84),$6.59,$2.16,18.228,3.3735,6.4288,
+"Oil, Gas & Consumable Fuels",DHT,"1,860 M",11.58,$1.05,$6.58,$1.10,16.95,7.5164,1.3794,
+"Oil, Gas & Consumable Fuels",NFE,683 M,2.49,($9.35),$6.39,($2.32),-26.069,1.9078,7.4511,
+"Oil, Gas & Consumable Fuels",KRP,"1,223 M",13.10,$3.03,$6.37,$0.07,2.7671,5.2143,2.2285,
+Energy Equipment & Services,ACDC,"1,336 M",8.34,$0.50,$6.17,($1.50),-18.407,.2571,3.0573,
+"Oil, Gas & Consumable Fuels",TPZEF,"2,822 M",18.3525,($0.73),$5.78,$0.25,4.2243,3.8146,1.453,
+"Oil, Gas & Consumable Fuels",CVI,"2,351 M",23.39,($2.34),$5.77,($1.97),-16.322,-2.9362,7.3293,
+"Oil, Gas & Consumable Fuels",BIREF,"1,288 M",4.731,($0.07),$5.76,$0.35,6.1568,4.1884,1.5587,
+"Oil, Gas & Consumable Fuels",PTRRY,"5,640 M",6.92,($1.40),$5.72,$2.39,53.947,8.3917,2.0595,
+Energy Equipment & Services,CLB,504 M,10.75,$0.94,$5.43,$0.59,11.567,5.2997,2.3344,
+"Oil, Gas & Consumable Fuels",KGEI,258 M,7.28,$0.21,$5.42,$0.57,11.125,7.5478,1.304,
+"Oil, Gas & Consumable Fuels",PBR,"74,368 M",11.54,$1.60,$5.38,$0.65,12.019,8.658,2.8994,
+Energy Equipment & Services,ESVIF,268 M,1.459,$1.02,$5.18,($0.06),-1.1356,1.6966,2.0829,
+"Oil, Gas & Consumable Fuels",HESM,"4,311 M",37.00,$6.75,$5.15,$2.55,147.22,14.373,7.0906,
+"Oil, Gas & Consumable Fuels",ZPTAF,381 M,3.84,$0.66,$5.11,($0.29),-5.3539,1.5009,1.8899,
+Energy Equipment & Services,RES,979 M,4.44,$0.63,$5.09,$0.35,7.1878,3.2661,1.2444,
+"Oil, Gas & Consumable Fuels",VLERF,511 M,4.82,$0.83,$5.07,$2.16,55.897,18.956,1.5295,
+"Oil, Gas & Consumable Fuels",ISOU,358 M,7.45,($0.52),$4.87,($0.56),-9.6613,-2.854,1.0956,
+"Oil, Gas & Consumable Fuels",EGY,333 M,3.17,($0.20),$4.86,$0.56,11.986,9.397,1.8392,
+"Oil, Gas & Consumable Fuels",GRNT,737 M,5.62,($0.71),$4.81,$0.09,1.8911,6.3665,1.7222,
+"Oil, Gas & Consumable Fuels",FRHLF,"1,459 M",8.90,($0.32),$4.63,$0.68,15.162,8.8914,1.3478,
+"Oil, Gas & Consumable Fuels",HAFN,"2,520 M",5.06,$1.69,$4.57,$1.20,26.66,10.202,1.6224,
+Energy Equipment & Services,PSYTF,699 M,8.862,$0.60,$4.47,$0.63,14.568,10.189,1.2172,
+"Oil, Gas & Consumable Fuels",AM,"9,000 M",18.78,$1.24,$4.36,$0.87,19.708,7.3035,2.7541,
+"Oil, Gas & Consumable Fuels",CQP,"27,770 M",57.37,$5.76,$4.24,$4.16,-410.82,11.676,8.3304,
+"Oil, Gas & Consumable Fuels",GPRK,322 M,6.28,$2.69,$4.11,$1.51,38.789,13.249,5.6858,
+Energy Equipment & Services,BORR,419 M,1.75,($0.90),$4.07,$0.20,5.1717,6.5159,3.4898,
+"Oil, Gas & Consumable Fuels",GBNXF,"2,704 M",16.52,$1.55,$4.04,$0.68,17.114,4.3479,4.8987,
+"Oil, Gas & Consumable Fuels",CRLFF,719 M,4.48,$0.22,$3.96,$0.49,12.42,7.4384,1.4813,
+Energy Equipment & Services,NPKI,684 M,8.09,($0.05),$3.86,$0.49,11.201,4.6661,1.1931,
+"Oil, Gas & Consumable Fuels",KELTF,989 M,4.98,($0.44),$3.82,$0.18,4.9936,3.5269,1.3926,
+"Oil, Gas & Consumable Fuels",BTE,"1,237 M",1.61,$0.60,$3.79,$0.28,7.9035,6.5244,1.862,
+"Oil, Gas & Consumable Fuels",BP,"75,667 M",29.10,$0.63,$3.69,($0.07),-.2431,2.034,4.8337,
+"Oil, Gas & Consumable Fuels",BSM,"2,825 M",13.35,$1.02,$3.61,$0.92,19.935,11.45,1.6205,
+Energy Equipment & Services,PHXHF,264 M,5.79,$0.19,$3.56,$0.85,25.149,8.1115,1.9267,
+"Oil, Gas & Consumable Fuels",SOC,"2,861 M",28.78,($4.25),$3.14,($7.48),-200.53,-6.5417,5.5652,
+"Oil, Gas & Consumable Fuels",TGS,"4,218 M",28.02,$0.38,$3.13,$0.48,20.09,12.172,1.4795,
+"Oil, Gas & Consumable Fuels",SECYF,"2,476 M",11.18,$1.25,$2.93,$0.56,16.216,6.407,2.4723,
+"Oil, Gas & Consumable Fuels",TNEYF,"1,615 M",3.195,$0.52,$2.88,$0.33,12.322,7.2783,1.8904,
+"Oil, Gas & Consumable Fuels",UUUU,"1,060 M",4.89,($0.57),$2.70,($0.43),-15.99,-7.7355,1.1205,
+"Oil, Gas & Consumable Fuels",HNRG,741 M,17.25,$0.91,$2.68,($5.17),-107.44,1.5354,3.1739,
+"Oil, Gas & Consumable Fuels",CLNE,396 M,1.79,$0.03,$2.67,($0.89),-30.034,-4.2987,1.8713,
+"Oil, Gas & Consumable Fuels",LTBR,346 M,15.05,($0.68),$2.66,($0.86),-32.194,-21.531,1.0169,
+Energy Equipment & Services,CESDF,"1,013 M",4.57,$0.52,$2.57,$0.53,23.517,11.137,1.9229,
+"Oil, Gas & Consumable Fuels",DK,"1,169 M",19.25,($13.06),$2.56,($12.66),-103.33,-3.6026,44.286,
+"Oil, Gas & Consumable Fuels",UGP,"3,056 M",2.85,$0.39,$2.48,$0.36,16.081,6.4738,2.4846,
+"Oil, Gas & Consumable Fuels",ATHOF,"1,883 M",3.75,$0.45,$2.41,$0.65,28.662,12.614,1.4048,
+"Oil, Gas & Consumable Fuels",NAT,561 M,2.65,$0.60,$2.40,$0.22,8.9088,5.6954,1.6068,
+"Oil, Gas & Consumable Fuels",KOS,793 M,1.66,($0.64),$2.30,($0.03),-1.1467,2.7618,4.7983,
+"Oil, Gas & Consumable Fuels",ATUUF,360 M,12.81,($0.76),$2.24,($0.32),-13.516,-3.3754,4.4477,
+"Oil, Gas & Consumable Fuels",CDDRF,"1,079 M",4.54,$0.33,$2.11,$0.59,29.71,17.516,1.3373,
+Energy Equipment & Services,TTI,357 M,2.68,($0.06),$2.05,$0.88,55.878,6.8379,2.2494,
+"Oil, Gas & Consumable Fuels",UEC,"2,542 M",5.93,($0.12),$2.05,($0.16),-7.9185,-3.3397,1.1194,
+"Oil, Gas & Consumable Fuels",GEVO,304 M,1.27,($0.46),$2.02,($0.36),-16.039,-7.0491,1.4426,
+"Oil, Gas & Consumable Fuels",VG,"27,998 M",11.57,($4.89),$2.02,$0.47,30.723,3.0627,9.2299,
+"Oil, Gas & Consumable Fuels",DALXF,453 M,2.265,($0.07),$1.96,$0.07,3.5645,1.8016,1.727,
+Energy Equipment & Services,TOLWF,584 M,3.13,$0.41,$1.86,$0.36,19.471,12.27,1.3476,
+"Oil, Gas & Consumable Fuels",DKL,"2,233 M",41.78,$0.29,$1.82,$2.98,542.39,5.4068,24.585,
+"Oil, Gas & Consumable Fuels",UROY,295 M,2.21,($0.27),$1.53,$0.00,.4002,-.0719,1.0043,
+"Oil, Gas & Consumable Fuels",EU,374 M,2.01,($0.40),$1.44,($0.43),-24.842,-11.99,1.3537,
+"Oil, Gas & Consumable Fuels",AOIFF,878 M,1.30,($0.01),$1.37,($0.51),-25.816,-1.002,2.7209,
+"Oil, Gas & Consumable Fuels",NXE,"3,521 M",6.18,($0.17),$1.35,($0.12),-9.2383,-3.5646,1.4201,
+"Oil, Gas & Consumable Fuels",NEXT,"2,160 M",8.28,($10.40),$1.16,($0.69),-10.829,-2.0876,22.791,
+"Oil, Gas & Consumable Fuels",CSAN,"2,709 M",5.83,$0.40,$0.74,($1.06),-24.821,4.71,16.155,
+"Oil, Gas & Consumable Fuels",PTALF,381 M,.41666,$0.11,$0.58,$0.10,18.624,10.978,1.5495,
+"Oil, Gas & Consumable Fuels",EC,"17,413 M",8.47,$0.14,$0.45,$0.08,19.107,7.6311,3.8758,
+"Oil, Gas & Consumable Fuels",DNN,"1,425 M",1.59,($0.05),$0.40,($0.09),-20.117,-6.1767,1.1842,
+"Oil, Gas & Consumable Fuels",URG,298 M,.8168,($0.20),$0.34,($0.13),-45.536,-25.438,1.4856,
+"Oil, Gas & Consumable Fuels",LOECF,265 M,.4450,($0.30),$0.32,$0.01,2.7393,1.4908,1.6746,
+"Oil, Gas & Consumable Fuels",CEIEF,345 M,.6498,($0.16),$0.32,($0.02),-6.6919,-3.1268,1.3875,
+"Oil, Gas & Consumable Fuels",TBN,289 M,19.85,($0.05),$0.08,($0.01),-14.582,-5.8769,1.5907,
+"Oil, Gas & Consumable Fuels",SHASF,415 M,.1450,$0.04,$0.08,$0.03,45.09,4.7848,2.1116,
+"Oil, Gas & Consumable Fuels",NXXT,345 M,2.91,($3.28),($0.05),($4.97),497.59,-43.776,-4.6797,
+"Oil, Gas & Consumable Fuels",NGL,461 M,3.49,($3.03),($1.17),($2.53),-19.596,3.0375,-31.456,
+Energy Equipment & Services,USAC,"2,963 M",25.20,$1.60,($1.54),$0.67,148.57,7.1082,-15.014,
+"Oil, Gas & Consumable Fuels",GEL,"1,931 M",15.77,($2.42),($1.94),($1.69),-6.664,2.2622,-21.918,
+"Oil, Gas & Consumable Fuels",CAPL,823 M,21.59,$1.75,($2.26),$0.80,-113.09,3.4865,-12.637,
+"Oil, Gas & Consumable Fuels",INR,254 M,16.68,($6.87),($3.43),$1.89,-10.483,-3.3035,-18.261,
+"Oil, Gas & Consumable Fuels",CLMT,"1,211 M",13.98,($1.62),($9.95),($4.05),76.021,-1.3455,-3.2745,
+Energy Equipment & Services,FLOC,"1,558 M",17.21,$3.50,($14.39),$2.69,12.521,7.4953,-4.3389,
+"Oil, Gas & Consumable Fuels",KNTK,"2,713 M",44.54,$6.07,($41.85),$0.94,8.2162,1.6698,-2.7575,

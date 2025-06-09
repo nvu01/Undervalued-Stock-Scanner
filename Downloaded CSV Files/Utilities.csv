@@ -1,95 +1,105 @@
 ﻿Watchlist Scanner
 
 Results
-Industry,Symbol,Market Cap,Last,Free Cash Flow Per Share - Current (LTM),Book Value Per Share - Current (LTM),Earnings Per Share - TTM - Current (LTM),Return on Equity (ROE) - Current (LTM),Return on Assets (ROA) - Current (LTM),Financial Leverage (Assets/Equity) - Current (LTM)
-Electric Utilities,AEP,"57,415 M",107.48,($2.58),$50.56,$5.58,11.386,2.8609,3.8257
-Electric Utilities,ALE,"3,806 M",65.67,$1.77,$49.20,$3.10,3.5806,1.619,2.3716
-Electric Utilities,CEG,"84,005 M",268.12,($16.07),$42.06,$11.89,30.115,5.1514,4.0199
-Electric Utilities,CIG,"5,292 M",1.85,$0.01,$1.55,$0.40,27.362,8.8259,2.1816
-Electric Utilities,DUK,"95,263 M",122.60,$0.06,$63.34,$5.69,9.077,2.731,3.791
-Electric Utilities,EBR,"16,768 M",7.46,$0.64,$11.08,$0.74,8.8548,2.8473,2.3787
-Electric Utilities,EDN,"1,320 M",30.15,($0.13),$1.67,$0.30,19.866,.7776,2.6406
-Electric Utilities,EIX,"21,451 M",55.75,($1.89),$38.93,$7.04,15.001,2.7962,5.9037
-Electric Utilities,ELP,"6,020 M",8.11,($0.16),$1.39,$0.13,9.2629,4.1772,2.2351
-Electric Utilities,ELPC,"5,505 M",7.4156,($0.16),$1.39,$0.13,9.2629,4.1772,2.2351
-Electric Utilities,ENIC,"5,326 M",3.85,$0.01,$0.08,$0.00,4.1027,2.1509,2.4746
-Electric Utilities,ES,"22,866 M",62.24,($6.49),$41.02,$2.32,5.5491,3.0609,3.9626
-Electric Utilities,ETR,"36,288 M",84.24,($4.20),$35.25,$3.09,8.8532,3.0677,4.3872
-Electric Utilities,EVRG,"16,018 M",69.64,($1.53),$43.29,$3.79,9.0046,2.868,3.2428
-Electric Utilities,EXC,"46,782 M",46.34,($1.49),$27.35,$2.69,10.099,2.7551,3.9658
-Electric Utilities,FE,"24,789 M",42.95,($1.18),$21.77,$1.88,9.2738,2.9619,4.1992
-Electric Utilities,FTS,"24,959 M",49.76,($1.98),$30.91,$2.25,7.4331,3.0172,3.3124
-Electric Utilities,GNE,432 M,15.99,$2.34,$7.04,$0.57,8.3513,8.0302,1.9489
-Electric Utilities,HE,"1,792 M",10.39,$1.13,$8.58,($10.42),-67.952,.9885,6.0385
-Electric Utilities,IDA,"6,284 M",116.33,($6.47),$61.95,$5.63,9.6034,2.2687,2.8664
-Electric Utilities,KEP,"12,249 M",9.54,$1.66,$42.11,$3.68,9.2129,2.1491,6.1833
-Electric Utilities,LNT,"15,875 M",61.80,($4.22),$27.29,$2.69,10.014,2.6449,3.243
-Electric Utilities,MGEE,"3,366 M",92.13,$1.13,$33.71,$3.33,10.174,3.5444,2.2989
-Electric Utilities,NEE,"138,669 M",67.36,($4.87),$24.20,$2.67,7.056,2.548,3.8999
-Electric Utilities,NRG,"24,169 M",118.67,$8.82,$9.20,$4.99,41.79,5.6981,13.141
-Electric Utilities,OGE,"9,100 M",45.20,($1.83),$22.93,$2.41,10.718,3.7126,3.023
-Electric Utilities,OKLO,"3,775 M",27.12,($0.39),$1.82,($0.74),-68.007,-22.251,1.1231
-Electric Utilities,OTTR,"3,197 M",76.36,$1.86,$41.06,$7.02,18.379,6.7231,2.1526
-Electric Utilities,PAM,"3,897 M",71.65,($0.01),$2.42,$0.46,21.689,2.6199,1.9309
-Electric Utilities,PCG,"37,800 M",17.20,($0.82),$13.24,$1.09,8.2572,2.4255,4.6534
-Electric Utilities,PNW,"11,201 M",93.81,($6.37),$56.44,$4.99,9.1897,2.5025,4.0419
-Electric Utilities,POR,"4,663 M",42.58,($4.42),$35.10,$2.86,8.3253,2.7025,3.3026
-Electric Utilities,PPL,"26,857 M",36.33,($0.58),$19.34,$1.34,7.0181,2.9715,2.9243
-Electric Utilities,SO,"101,339 M",92.11,$0.00,$30.79,$4.17,12.244,3.4633,4.3769
-Electric Utilities,TXNM,"4,904 M",52.93,($8.16),$27.37,$2.67,10.317,2.6517,4.4204
-Electric Utilities,XEL,"41,158 M",71.36,($5.63),$34.35,$3.40,10.259,2.1722,3.6735
-Gas Utilities,ATO,"25,819 M",162.66,($8.36),$80.52,$7.00,9.0086,3.5038,2.0732
-Gas Utilities,BIPC,"4,599 M",38.64,$2.76,($7.06),($2.07),22.203,5.9791,-26.869
-Gas Utilities,CPK,"3,085 M",134.05,($5.16),$60.71,$5.26,8.9974,4.2195,2.573
-Gas Utilities,MDU,"3,598 M",17.61,($0.10),$13.21,$0.88,6.4717,2.2684,2.6161
-Gas Utilities,NFG,"7,452 M",82.48,$0.77,$30.59,$0.43,1.3038,6.1544,3.0662
-Gas Utilities,NJR,"4,895 M",48.81,($1.88),$23.08,$3.33,15.149,4.097,3.1107
-Gas Utilities,NWN,"1,772 M",43.95,($5.00),$34.44,$2.03,5.9096,2.3076,3.7783
-Gas Utilities,OGS,"4,877 M",81.38,($2.87),$53.02,$4.20,8.0781,3.3968,2.6145
-Gas Utilities,SGU,436 M,12.62,$2.72,$8.58,$1.36,19.629,5.4498,3.3245
-Gas Utilities,SPH,"1,294 M",20.06,$1.71,$8.45,$1.06,12.628,4.8369,4.3744
-Gas Utilities,SR,"4,492 M",76.11,($2.41),$55.35,$4.09,7.3083,2.9399,3.4734
-Gas Utilities,SWX,"5,492 M",76.44,$5.71,$48.82,$2.76,5.7669,2.6172,3.4313
-Gas Utilities,UGI,"7,211 M",33.57,$1.77,$21.32,$2.55,12.195,5.2404,3.3651
-Multi-Utilities,AEE,"26,904 M",99.54,($7.05),$45.21,$4.51,10.159,2.7006,3.7372
-Multi-Utilities,AQN,"4,192 M",5.46,($0.55),$5.90,$0.15,-.1465,1.5404,3.7496
-Multi-Utilities,AVA,"3,292 M",41.00,$0.01,$32.37,$2.29,7.0921,2.4611,3.0648
-Multi-Utilities,BIP,"14,689 M",31.64,$2.18,$9.93,$0.01,4.4712,3.0882,22.607
-Multi-Utilities,BKH,"4,451 M",61.75,($0.36),$48.89,$3.91,8.2339,3.176,2.8624
-Multi-Utilities,CMS,"22,120 M",73.95,($2.98),$27.12,$3.38,11.234,3.0913,4.4748
-Multi-Utilities,CNP,"25,489 M",39.05,($4.71),$16.78,$1.48,9.2206,2.9713,4.0608
-Multi-Utilities,D,"47,031 M",55.15,($10.08),$30.92,$2.59,7.7188,2.8629,3.9643
-Multi-Utilities,DTE,"28,764 M",138.61,($3.22),$57.45,$7.39,13.296,2.9149,4.157
-Multi-Utilities,ED,"40,007 M",111.04,($2.34),$66.06,$5.42,8.3307,3.1111,2.9723
-Multi-Utilities,NGG,"71,137 M",72.57,($0.49),$10.59,$0.56,5.2795,3.1559,2.8418
-Multi-Utilities,NI,"19,050 M",40.48,($1.91),$18.48,$1.62,8.1203,2.8851,3.6605
-Multi-Utilities,NWE,"3,539 M",57.66,($2.19),$47.19,$3.84,8.2658,2.7672,2.7971
-Multi-Utilities,PEG,"39,815 M",79.79,($1.39),$32.81,$3.66,11.4,2.9419,3.3949
-Multi-Utilities,SRE,"49,454 M",75.86,($5.29),$46.62,$4.42,9.7953,1.9506,3.17
-Multi-Utilities,UTL,938 M,57.73,($2.73),$31.64,$2.93,9.403,3.3373,3.5028
-Multi-Utilities,WEC,"34,979 M",109.62,$1.36,$39.02,$4.83,12.247,2.8493,3.8212
-Water Utilities,ARTNA,353 M,34.26,($0.89),$23.22,$1.98,8.6859,2.6722,3.3389
-Water Utilities,AWK,"28,877 M",148.08,($4.11),$54.02,$5.49,10.428,3.4751,3.1475
-Water Utilities,AWR,"3,065 M",79.60,($0.89),$24.12,$3.17,14.063,4.9358,2.7175
-Water Utilities,CWCO,363 M,22.81,$1.88,$13.25,$1.12,9.0681,4.8963,1.159
-Water Utilities,CWT,"2,923 M",49.07,($3.07),$27.35,$2.26,8.6113,2.5928,3.2271
-Water Utilities,GWRS,282 M,10.27,($0.44),$1.96,$0.24,12.032,1.5276,8.5106
-Water Utilities,MSEX,"1,085 M",60.56,($0.75),$25.09,$2.40,9.8014,2.9587,2.8482
-Water Utilities,SBS,"13,759 M",20.13,($0.15),$8.74,$2.27,28.688,13.519,2.1925
-Water Utilities,SJW,"1,875 M",54.86,<empty>,$40.88,<empty>,<empty>,<empty>,<empty>
-Water Utilities,WTRG,"11,296 M",41.00,($2.04),$22.56,$2.17,9.8439,2.7192,2.9081
-Water Utilities,YORW,477 M,33.18,($1.29),$16.07,$1.42,8.986,2.9227,2.74
-Independent Power & Renewable Electricity Producers,AES,"7,333 M",10.30,($4.90),$4.87,$1.84,5.5833,2.3991,14.018
-Independent Power & Renewable Electricity Producers,CEPU,"1,636 M",10.89,$0.07,$1.16,$0.03,3.2858,4.1553,1.4789
-Independent Power & Renewable Electricity Producers,KEN,"1,605 M",30.77,($1.43),$30.83,$11.34,26.813,.8337,2.6203
-Independent Power & Renewable Electricity Producers,TAC,"2,538 M",8.52,$0.97,$1.88,$0.41,13.63,4.1785,11.815
-Independent Power & Renewable Electricity Producers,TLN,"10,527 M",231.31,$1.23,$30.18,$17.67,51.67,2.1452,4.4023
-Independent Power & Renewable Electricity Producers,VST,"47,452 M",139.50,$5.39,$9.11,$7.00,51.573,7.2116,12.208
-Independent Power & Renewable Electricity Producers,ANNA,437 M,10.76,($1.04),$0.74,($4.39),-48.765,-6.4445,2.7809
-Independent Power & Renewable Electricity Producers,BEP,"6,370 M",22.42,($4.74),$12.06,($0.71),-.1492,.7658,10.919
-Independent Power & Renewable Electricity Producers,BEPC,"4,998 M",27.83,($1.53),$4.23,($0.74),-.4427,1.9183,31.312
-Independent Power & Renewable Electricity Producers,CWEN,"3,372 M",28.61,$4.56,$16.49,$0.79,-2.312,.9954,7.5383
-Independent Power & Renewable Electricity Producers,MNTK,321 M,2.24,($0.14),$1.80,$0.07,3.8348,3.1766,1.3558
-Independent Power & Renewable Electricity Producers,ORA,"4,383 M",72.31,($1.27),$40.08,$2.04,5.2371,1.9544,2.3365
-Independent Power & Renewable Electricity Producers,RNW,"2,379 M",6.56,($1.43),$3.47,$0.04,1.6753,3.2634,8.9
-Independent Power & Renewable Electricity Producers,XIFR,799 M,8.50,$5.98,$34.39,($0.25),-3.0531,.3007,6.3117
+Industry,Symbol,Market Cap,Last,Free Cash Flow Per Share - Current (LTM),Book Value Per Share - Current (LTM),Earnings Per Share - TTM - Current (LTM),Return on Equity (ROE) - Current (LTM),Return on Assets (ROA) - Current (LTM),Financial Leverage (Assets/Equity) - Current (LTM),1
+Electric Utilities,HRNNF,"21,970 M",36.63,<empty>,<empty>,<empty>,<empty>,<empty>,<empty>,
+Independent Power & Renewable Electricity Producers,INGXF,"2,016 M",9.9935,<empty>,<empty>,<empty>,<empty>,<empty>,<empty>,
+Independent Power & Renewable Electricity Producers,BEPC,"5,279 M",29.39,($1.53),$4.23,($0.74),-.4427,1.3172,31.312,
+Multi-Utilities,BIP,"15,377 M",33.11,$0.79,$9.92,$0.01,4.4712,3.0882,22.607,
+Independent Power & Renewable Electricity Producers,VST,"54,487 M",160.57,$4.82,$6.91,$6.38,41.676,6.3002,16.274,
+Independent Power & Renewable Electricity Producers,AES,"7,183 M",10.09,($4.90),$4.87,$1.84,5.5833,2.3991,14.018,
+Independent Power & Renewable Electricity Producers,TAC,"2,893 M",9.76,$0.51,$1.85,$0.00,2.289,2.6185,12.004,
+Electric Utilities,NRG,"30,480 M",155.90,$11.13,$10.83,$6.20,44.913,6.3154,11.749,
+Independent Power & Renewable Electricity Producers,BEP,"6,770 M",23.83,($4.74),$12.06,($0.71),-.1492,.7658,10.919,
+Independent Power & Renewable Electricity Producers,RNW,"2,470 M",6.81,($1.43),$3.47,$0.04,1.6753,3.2634,8.9,
+Independent Power & Renewable Electricity Producers,CWEN,"3,627 M",30.77,$4.56,$16.49,$0.79,-2.312,.9954,7.5383,
+Independent Power & Renewable Electricity Producers,XIFR,829 M,8.82,$5.84,$33.16,($2.05),-5.8344,.4115,6.8662,
+Electric Utilities,KEP,"14,187 M",11.05,$2.14,$44.36,$5.56,13.266,2.7685,5.9565,
+Electric Utilities,EIX,"21,412 M",55.65,($1.89),$38.93,$7.04,15.001,2.7962,5.9037,
+Electric Utilities,HE,"1,842 M",10.68,$0.57,$8.73,($9.25),-66.654,1.0629,5.8213,
+Water Utilities,GWRS,279 M,10.15,($0.85),$2.81,$0.23,9.1092,1.4159,5.749,
+Multi-Utilities,ACLLF,"4,212 M",37.47,$3.02,$29.24,$2.64,8.0759,2.8313,5.731,
+Independent Power & Renewable Electricity Producers,TLN,"11,102 M",243.95,$0.29,$25.93,$10.79,28.332,.9139,4.9703,
+Independent Power & Renewable Electricity Producers,BRLXF,"2,354 M",22.90,($3.25),$10.88,$0.07,2.0187,1.7105,4.7358,
+Electric Utilities,PCG,"37,097 M",16.88,($0.82),$13.24,$1.09,8.2572,2.4255,4.6534,
+Electric Utilities,TXNM,"5,253 M",56.69,($8.16),$27.03,$2.24,8.8631,2.5749,4.5484,
+Multi-Utilities,CMS,"21,007 M",70.23,($2.98),$27.12,$3.38,11.234,3.0913,4.4748,
+Multi-Utilities,CDUAF,"7,602 M",27.97,$0.76,$13.97,$1.02,6.7151,2.5689,4.44,
+Electric Utilities,ETR,"37,171 M",83.28,($4.20),$35.25,$3.09,8.8532,3.0677,4.3872,
+Electric Utilities,SO,"99,017 M",90.00,$0.00,$30.79,$4.17,12.244,3.4633,4.3769,
+Gas Utilities,SPH,"1,224 M",18.84,$1.71,$8.45,$1.46,12.628,4.8369,4.3744,
+Electric Utilities,FE,"24,206 M",41.94,($1.18),$21.77,$1.88,9.2738,2.9619,4.1992,
+Multi-Utilities,DTE,"28,357 M",136.65,($3.22),$57.45,$7.39,13.296,2.9149,4.157,
+Multi-Utilities,CNP,"24,308 M",37.24,($4.71),$16.78,$1.48,9.2206,2.9713,4.0608,
+Electric Utilities,PNW,"10,893 M",91.23,($6.37),$56.44,$4.99,9.1897,2.5025,4.0419,
+Electric Utilities,CEG,"95,953 M",306.15,($13.66),$41.34,$9.49,23.974,4.6755,4.033,
+Electric Utilities,EXC,"44,238 M",43.82,($1.49),$27.35,$2.69,10.099,2.7551,3.9658,
+Multi-Utilities,D,"48,328 M",56.67,($10.08),$30.92,$2.59,7.7188,2.8629,3.9643,
+Electric Utilities,ES,"23,810 M",64.81,($3.95),$41.77,$2.32,5.6173,3.0913,3.9237,
+Gas Utilities,NWN,"1,651 M",40.97,($4.05),$36.13,$2.61,7.3556,2.7355,3.919,
+Electric Utilities,NEE,"145,422 M",70.64,($4.87),$24.20,$2.67,7.056,2.548,3.8999,
+Electric Utilities,AEP,"55,284 M",103.49,($3.19),$51.16,$5.19,10.421,2.8901,3.8211,
+Electric Utilities,DUK,"91,499 M",117.72,($0.24),$63.96,$6.00,9.4775,2.841,3.7724,
+Multi-Utilities,AEE,"26,265 M",96.88,($7.05),$45.21,$4.51,10.159,2.6862,3.7372,
+Multi-Utilities,NI,"18,612 M",39.54,($1.48),$18.90,$1.87,9.3641,3.2543,3.721,
+Multi-Utilities,WEC,"34,288 M",107.44,$1.49,$40.66,$5.14,12.579,2.9873,3.7171,
+Electric Utilities,XEL,"40,431 M",70.10,($5.63),$34.35,$3.40,10.259,2.1722,3.6735,
+Gas Utilities,SUUIF,"1,317 M",5.67,$0.54,$4.34,$0.06,3.2611,3.6862,3.6174,
+Electric Utilities,EMA,"13,662 M",45.86,($1.36),$28.73,$2.07,7.2107,2.7316,3.5441,
+Multi-Utilities,UTL,891 M,54.83,($1.92),$32.86,$2.93,9.0726,3.2906,3.5413,
+Gas Utilities,SR,"4,443 M",75.28,($2.41),$55.35,$4.09,7.3083,2.9399,3.4734,
+Multi-Utilities,PEG,"40,434 M",81.03,($1.39),$32.81,$3.66,11.4,2.9419,3.3949,
+Water Utilities,HTO,"1,794 M",52.48,($5.26),$40.88,$2.98,7.4931,2.5601,3.3842,
+Gas Utilities,SWX,"5,371 M",71.83,$2.66,$49.86,$3.12,6.3585,2.8315,3.3742,
+Water Utilities,ARTNA,356 M,34.49,($1.19),$23.45,$2.08,9.044,2.7191,3.3472,
+Independent Power & Renewable Electricity Producers,NPIFF,"3,909 M",14.95,$2.10,$11.22,$0.69,7.0885,3.2537,3.3378,
+Electric Utilities,FTS,"24,493 M",48.83,($1.95),$31.19,$2.30,7.4649,3.0243,3.319,
+Electric Utilities,POR,"4,643 M",42.40,($4.42),$35.10,$2.86,8.3253,2.7025,3.3026,
+Electric Utilities,EVRG,"15,280 M",66.41,($0.85),$43.16,$3.80,9.0474,2.9121,3.2681,
+Water Utilities,CWT,"2,815 M",47.25,($3.07),$27.35,$2.26,8.6113,2.5928,3.2271,
+Multi-Utilities,SRE,"51,254 M",78.59,($6.46),$47.17,$4.56,9.7086,1.9331,3.2194,
+Water Utilities,AWK,"27,881 M",142.97,($4.11),$54.02,$5.49,10.428,3.4751,3.1475,
+Gas Utilities,UGI,"7,733 M",36.06,$2.62,$23.37,$2.46,10.82,4.9609,3.1417,
+Independent Power & Renewable Electricity Producers,CPXWF,"6,208 M",40.14,($0.66),$20.91,$3.21,15.279,3.8425,3.069,
+Gas Utilities,NFG,"7,458 M",82.54,$0.77,$30.59,$0.43,1.3038,6.1544,3.0662,
+Multi-Utilities,AQN,"4,215 M",5.49,($0.62),$5.87,$0.33,2.4233,1.8801,3.0297,
+Electric Utilities,OGE,"8,953 M",44.47,($1.83),$22.93,$2.41,10.718,3.7126,3.023,
+Multi-Utilities,AVA,"3,103 M",38.51,$0.14,$32.88,$2.37,7.2734,2.6496,3.0072,
+Gas Utilities,ATGFF,"8,378 M",28.015,$0.29,$20.24,$1.31,6.613,2.9386,3.0063,
+Multi-Utilities,ED,"37,647 M",104.49,($2.34),$66.06,$5.42,8.3307,3.1111,2.9723,
+Gas Utilities,NJR,"4,606 M",45.89,($0.67),$24.70,$4.14,17.829,5.0855,2.9322,
+Electric Utilities,PPL,"25,689 M",34.75,($0.58),$19.34,$1.34,7.0181,2.9715,2.9243,
+Electric Utilities,IDA,"6,426 M",118.95,($6.47),$61.95,$5.63,9.6034,2.2687,2.8664,
+Water Utilities,MSEX,"1,038 M",57.95,($0.75),$25.09,$2.40,9.8014,2.9587,2.8482,
+Independent Power & Renewable Electricity Producers,ANNA,381 M,9.36,($0.92),$0.71,($1.39),-31.06,-6.0548,2.8428,
+Water Utilities,WTRG,"10,801 M",38.53,($1.89),$23.35,$2.23,9.781,3.0406,2.837,
+Multi-Utilities,NGG,"69,983 M",71.39,($0.69),$9.99,$0.77,8.3552,3.0416,2.8236,
+Gas Utilities,SGU,413 M,11.96,$2.56,$10.87,$1.78,20.711,6.8215,2.8183,
+Multi-Utilities,NWE,"3,396 M",55.33,($2.19),$47.19,$3.84,8.2658,2.7672,2.7971,
+Multi-Utilities,BKH,"4,240 M",58.47,($0.10),$50.13,$3.95,8.0816,3.2348,2.7678,
+Water Utilities,YORW,470 M,32.66,($1.35),$16.12,$1.37,8.6298,2.9134,2.7645,
+Water Utilities,AWR,"3,037 M",78.87,($1.43),$24.84,$3.24,13.999,5.0118,2.6615,
+Independent Power & Renewable Electricity Producers,KEN,"1,833 M",35.15,($0.52),$29.37,$11.35,28.796,.8857,2.6236,
+Gas Utilities,OGS,"4,667 M",74.76,($2.87),$53.15,$4.20,8.0781,3.3916,2.6145,
+Electric Utilities,EDN,"1,447 M",33.04,($0.09),$1.78,$0.21,16.287,1.9161,2.5969,
+Gas Utilities,MDU,"3,512 M",17.19,$0.27,$13.42,$0.91,6.5968,2.4155,2.5378,
+Gas Utilities,CPK,"2,850 M",122.19,($7.35),$62.68,$5.43,9.0389,4.27,2.532,
+Electric Utilities,ENIC,"4,911 M",3.55,$0.01,$0.08,$0.00,4.1027,2.1509,2.4746,
+Electric Utilities,ALE,"3,770 M",65.04,$1.01,$49.44,$3.19,3.5129,1.6415,2.3958,
+Independent Power & Renewable Electricity Producers,ORA,"4,509 M",74.33,($3.19),$40.57,$2.06,5.1918,1.8045,2.3724,
+Electric Utilities,EBR,"16,487 M",7.33,$0.88,$9.47,$0.75,8.2773,2.8872,2.3212,
+Electric Utilities,ELP,"6,666 M",8.98,($0.17),$1.55,$0.14,9.5774,4.441,2.293,
+Electric Utilities,ELPC,"6,080 M",8.19,($0.17),$1.55,$0.14,9.5774,4.441,2.293,
+Electric Utilities,CIG,"5,349 M",1.87,($0.02),$1.71,$0.43,26.266,8.1917,2.2892,
+Electric Utilities,MGEE,"3,300 M",90.32,$1.38,$34.46,$3.54,10.617,3.8182,2.257,
+Water Utilities,SBS,"14,039 M",20.54,($0.48),$9.84,$2.62,29.643,13.753,2.2317,
+Electric Utilities,OTTR,"3,234 M",77.18,$1.86,$41.01,$7.02,18.379,6.7231,2.1526,
+Gas Utilities,ATO,"24,569 M",154.68,($8.36),$82.71,$7.25,9.1855,3.6436,2.0536,
+Electric Utilities,GNE,568 M,21.14,$2.47,$7.36,$0.65,9.3635,8.3624,1.9412,
+Electric Utilities,PAM,"4,170 M",76.67,$0.03,$2.55,$0.41,19.504,2.9657,1.7855,
+Independent Power & Renewable Electricity Producers,CEPU,"1,967 M",13.01,$0.11,$1.26,$0.06,6.1374,4.8417,1.4639,
+Independent Power & Renewable Electricity Producers,MNTK,262 M,1.84,($0.09),$1.80,$0.05,2.8955,3.3184,1.372,
+Water Utilities,CWCO,430 M,27.03,$2.18,$13.40,$1.00,7.9023,4.0533,1.1739,
+Electric Utilities,OKLO,"7,339 M",52.72,($0.38),$1.94,($0.51),-56.027,-22.832,1.1218,
+Water Utilities,PCYO,256 M,10.62,$0.04,$5.58,$0.59,11.125,4.9344,1.1134,
+Gas Utilities,BIPC,"4,710 M",39.57,$2.88,($7.06),($2.08),22.203,5.9791,-26.869,
