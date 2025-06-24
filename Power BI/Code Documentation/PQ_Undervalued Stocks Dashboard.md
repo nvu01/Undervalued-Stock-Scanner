@@ -1,3 +1,4 @@
+# Mean Tables
 ## Transform Mean Table
 `Sample_Mean_Table` query is used to create `Transform Mean Table` function. 
 The function applies transformation steps to a specified mean table within a worksheet.
@@ -72,7 +73,7 @@ in
     Source
 ```
 
-## Query: All_Means
+## Result Query: All_Means
 `Combine Mean Tables` function was invoked in this query for all the worksheets in `Undervalued Stock Scanner\Main\Results` folder. 
 All the mean tables in all the worksheets are combined in one table and grouped by worksheet name and industry.
 ```
@@ -88,6 +89,8 @@ let
 in
     #"Extracted Text Before Delimiter1"
 ```
+
+# Result Tables
 
 ## Transform Result Table
 `Sample_Result_Table` query is used to create `Transform Result Table` function. 
@@ -142,11 +145,9 @@ let
     #"Invoked Custom Function" = Table.AddColumn(#"Added File Name", "Transform Result Table", each #"Transform Result Table"([Folder Path], [File Name], [Name])),
     #"Expanded Transform Result Table" = Table.ExpandTableColumn(#"Invoked Custom Function", "Transform Result Table", {"Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}, {"Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}),
     #"Removed Columns1" = Table.RemoveColumns(#"Expanded Transform Result Table",{"Name", "Folder Path"}),
-    #"Removed Errors" = Table.RemoveRowsWithErrors(#"Removed Columns1", {"Industry"}),
-    #"Renamed Columns" = Table.RenameColumns(#"Removed Errors",{{"File Name", "Sector"}}),
-    #"Extracted Text Before Delimiter" = Table.TransformColumns(#"Renamed Columns", {{"Sector", each Text.BeforeDelimiter(_, "."), type text}})
+    #"Removed Errors" = Table.RemoveRowsWithErrors(#"Removed Columns1", {"Industry"})
 in
-    #"Extracted Text Before Delimiter"
+    #"Removed Errors"
 ```
 
 ### Function: Combine Result Tables
@@ -162,16 +163,14 @@ let
     #"Invoked Custom Function" = Table.AddColumn(#"Added File Name", "Transform Result Table", each #"Transform Result Table"([Folder Path], [File Name], [Name])),
     #"Expanded Transform Result Table" = Table.ExpandTableColumn(#"Invoked Custom Function", "Transform Result Table", {"Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}, {"Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}),
     #"Removed Columns1" = Table.RemoveColumns(#"Expanded Transform Result Table",{"Name", "Folder Path"}),
-    #"Removed Errors" = Table.RemoveRowsWithErrors(#"Removed Columns1", {"Industry"}),
-    #"Renamed Columns" = Table.RenameColumns(#"Removed Errors",{{"File Name", "Sector"}}),
-    #"Extracted Text Before Delimiter" = Table.TransformColumns(#"Renamed Columns", {{"Sector", each Text.BeforeDelimiter(_, "."), type text}})
+    #"Removed Errors" = Table.RemoveRowsWithErrors(#"Removed Columns1", {"Industry"})
 in
-    #"Extracted Text Before Delimiter"
+    #"Removed Errors"
 in
     Source
 ```
 
-## Query: All_Results
+## Result Query: All_Results
 `Combine Result Tables` function was invoked in this query for all the worksheets in `Undervalued Stock Scanner\Main\Results\` folder. 
 All the result tables in all the worksheets are combined in one table and grouped by sector and industry.
 ```
@@ -180,11 +179,12 @@ let
     #"Removed Other Columns" = Table.SelectColumns(Source,{"Name", "Date modified", "Folder Path"}),
     #"Extracted Text Before Delimiter" = Table.TransformColumns(#"Removed Other Columns", {{"Folder Path", each Text.BeforeDelimiter(_, "\M"), type text}}),
     #"Invoked Custom Function" = Table.AddColumn(#"Extracted Text Before Delimiter", "Combine Result Tables", each #"Combine Result Tables"([Folder Path], [Name])),
-    #"Expanded Combine Result Tables" = Table.ExpandTableColumn(#"Invoked Custom Function", "Combine Result Tables", {"Sector", "Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}, {"Sector", "Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}),
-    #"Removed Columns" = Table.RemoveColumns(#"Expanded Combine Result Tables",{"Sector", "Folder Path"}),
+    #"Expanded Combine Result Tables" = Table.ExpandTableColumn(#"Invoked Custom Function", "Combine Result Tables", {"File Name", "Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}, {"File Name", "Industry", "Symbol", "Market Cap (M)", "Current Price", "Free CF", "BVPS", "EPS", "P/FCF", "P/B", "ROE", "ROA", "A/E", "P/E", "P/FCF Z-Score", "P/B Z-Score", "ROE Z-Score", "ROA Z-Score", "A/E Z-Score", "P/E Z-Score", "SCORE", "Market Cap"}),
+    #"Removed Columns" = Table.RemoveColumns(#"Expanded Combine Result Tables",{"Folder Path", "File Name"}),
     #"Changed Type" = Table.TransformColumnTypes(#"Removed Columns",{{"Market Cap (M)", Int64.Type}, {"Current Price", type number}, {"Free CF", type number}, {"BVPS", type number}, {"EPS", type number}, {"P/FCF", type number}, {"P/B", type number}, {"ROE", type number}, {"ROA", type number}, {"A/E", type number}, {"P/E", type number}, {"P/FCF Z-Score", type number}, {"P/B Z-Score", type number}, {"ROE Z-Score", type number}, {"ROA Z-Score", type number}, {"A/E Z-Score", type number}, {"P/E Z-Score", type number}, {"SCORE", Int64.Type}}),
     #"Renamed Columns" = Table.RenameColumns(#"Changed Type",{{"Name", "Sector"}}),
     #"Extracted Text Before Delimiter1" = Table.TransformColumns(#"Renamed Columns", {{"Sector", each Text.BeforeDelimiter(_, "."), type text}})
 in
     #"Extracted Text Before Delimiter1"
 ```
+
