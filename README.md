@@ -69,7 +69,6 @@ Undervalued Stock Scanner\
 ├── Downloaded CSV Files\         # Folder containing 11 raw CSV files and 1 sample CSV file
 │   
 ├── Main\                         # Folder containing workbooks, instructions and code documentation
-│   ├── Instructions.pdf          # Instructions for using the result workbooks
 │   ├── Results\                  # Folder containing all result workbooks (.xlsm files)
 │   ├── Builder.xlsm              # Workbook to build the sample results
 │   ├── Watch List.xlsx           # User's watch list template to track preferred stocks
@@ -82,6 +81,7 @@ Undervalued Stock Scanner\
 │   ├── Undervalued Stocks Dashboard.pbix                # Power BI file with data visualizations about undervalued stock valuation
 │   └── Using Dashboards.pdf                             # A PDF guide that provides step-by-step instructions on how to use the dashboards and explains how to interpret and analyze the visualizations
 │
+├── Instructions.pdf              # Instructions for using the workbooks and dashboards
 ├── Conceptual Framework.pdf      # Detailed explanation of the project's logic and methodology
 ├── Table Schema.xlsx             # Outlines the structure of tables
 └── Common Issues.pdf             # Instructions, troubleshooting guides, and other resources to help users resolve issues they may encounter
