@@ -18,6 +18,6 @@ The Power BI folder contains the following key files:
 ## How to Use the .pbix Files
 
 For any `.pbix` file, do the following steps when opening the file for the first time in a local machine:
--	Copy the path of the project folder that contains the **Main** folder. (Ex: D:\PROJECTS\Undervalued Stock Scanner)
+-	Copy the path of the project folder that contains the **Main** and **Power BI** folder. (Ex: D:\PROJECTS\Undervalued Stock Scanner)
 -	Open a `.pbix` file with Power BI
 -	Home tab --> Click `Transform data` drop-down --> `Edit parameters` --> Click on the `FolderPath` parameter --> Paste the current folder path to replace the default folder path --> Click `OK` --> Click `Apply changes` in the popup at the top
