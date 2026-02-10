@@ -3,9 +3,14 @@
 ### Disclaimer: This project is intended for educational and informational purposes only. The analysis, models, and methodologies used in this project are not intended to serve as financial or investment advice.The information presented should not be construed as a recommendation to buy, sell, or hold any securities or assets. Investing in the stock market carries inherent risks, and any decisions based on the content of this project are solely the responsibility of the individual. Always consult with a qualified financial advisor before making any investment decisions. 
 
 ## Project Overview
-The Undervalued Stock Scanner project aims to help identify potentially undervalued stocks by analyzing key financial metrics across various sectors. The project focuses on three market cap categories (Large Cap, Mid Cap, and Small Cap) and applies statistical methods to assess stock fundamentals, including quartile and mean calculations.
+The Undervalued Stock Scanner project aims to help identify potentially undervalued stocks by analyzing key financial metrics across various sectors. 
+The project focuses on three market cap categories (Large Cap, Mid Cap, and Small Cap) and applies statistical methods to assess stock fundamentals, including quartile and mean calculations.
 
-Raw stock data is downloaded from the Thinkorswim scanner in the form of 11 CSV files, each corresponding to a different sector. These files are processed and analyzed using advanced Excel features, such as Power Query, pivot tables, formulas, and filters, resulting in 11 sector-specific workbooks. Each workbook contains detailed analysis of stocks based on fundamental criteria, providing insights into potential investment opportunities.
+Raw stock data is downloaded from the Thinkorswim scanner in the form of 11 CSV files, each corresponding to a different sector. 
+These files are processed and analyzed using Power Query, advanced Excel features and VBA macros resulting in 11 sector-specific workbooks. 
+Each workbook contains detailed analysis of stocks based on fundamental criteria, providing insights into potential investment opportunities.
+
+The project also includes a Power BI dashboard that showcases data from all result Excel workbooks in a more interactive and user-friendly way.
 
 ## Prerequisites
 
@@ -56,8 +61,8 @@ The outcome of the analysis is a set of 11 Excel workbooks (.xlsm). Each workboo
 - Result_S: Evaluation results for small-cap stocks based on preliminary and additional criteria.
 - Dynamic Path (hidden): Includes the project folder path which is used as a parameter in Power Query to allow for using the workbooks in different local computers.
 
-## Power BI Dashboards
-Microsoft Power BI was used to create data models for result Excel workbooks (in `\Main\Results`) and generate interactive dashboards. The goal is to provide insights and industry comparisons using the data from these workbooks.
+## Power BI Dashboard
+Microsoft Power BI was used to generate an interactive dashboard that presents data from the result Excel workbooks (in `\Main\Results`).
 
 ## Project Folders and Files
 
